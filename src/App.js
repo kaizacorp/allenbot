@@ -1,23 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import gifs from "./gifs.json";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div
+      style={{
+        margin: "auto",
+        width: 800,
+        paddingTop: "1rem",
+      }}
+    >
+      <h1 className="title">Allenbot Gifs</h1>
+      <table width="100%">
+        <thead>
+          <th>URL</th>
+          <th>Tags</th>
+        </thead>
+        <tbody>
+          {gifs.slice(0, 20).map((gif) => (
+            <tr key={gif._id}>
+              <td>
+                <img src={gif.url} alt="allen gif"></img>
+              </td>
+              <td>{gif.tags}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </div>
   );
 }
