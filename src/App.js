@@ -1,6 +1,15 @@
 import "./App.css";
 import gifs from "./gifs.json";
 
+const GifRow = ({ gifs }) => (
+  <tr>
+    <td>
+      <img src={gifs.url} alt="allen gif"></img>
+    </td>
+    <td>{gifs.tags}</td>
+  </tr>
+);
+
 function App() {
   return (
     <div
@@ -17,13 +26,8 @@ function App() {
           <th>Tags</th>
         </thead>
         <tbody>
-          {gifs.slice(0, 20).map((gif) => (
-            <tr key={gif._id}>
-              <td>
-                <img src={gif.url} alt="allen gif"></img>
-              </td>
-              <td>{gif.tags}</td>
-            </tr>
+          {gifs.slice(0, 20).map((gifs) => (
+            <GifRow gifs={gifs} key={gifs._id} />
           ))}
         </tbody>
       </table>
