@@ -2,12 +2,12 @@ import "./App.css";
 import gifs from "./gifs.json";
 import PropTypes from "prop-types";
 
-const GifRow = ({ gifs }) => (
+const GifRow = ({ gif }) => (
   <tr>
     <td>
-      <img src={gifs.url} alt="allen gif"></img>
+      <img src={gif.url} alt="allen gif"></img>
     </td>
-    <td>{gifs.tags}</td>
+    <td>{gif.tags}</td>
   </tr>
 );
 
@@ -34,8 +34,8 @@ function App() {
           </tr>
         </thead>
         <tbody>
-          {gifs.slice(0, 20).map((gifs) => (
-            <GifRow gifs={gifs} key={gifs._id} />
+          {gifs.slice(0, 20).map((gif) => (
+            <GifRow gif={gif} key={gif._id} />
           ))}
         </tbody>
       </table>
