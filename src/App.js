@@ -30,7 +30,7 @@ function App() {
     >
       <h1 className="title">Allenbot Gifs</h1>
       <input value={filter} onChange={(evt) => filterSet(evt.target.value)} />
-      <table width="100%">
+      <table>
         <thead>
           <tr>
             <th>URL</th>

@@ -2,15 +2,40 @@
   text-align: center;
 }
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
 th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left:4px;
   text-align: left;
   font-size: x-large;
+  color:#fff;
+  background-color: rgb(94, 114, 207);
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+tbody tr:hover {
+  background-color: #ddd;
+}
+
+td {
+  padding: 8px;
+  border: 1px solid #ddd;
 }
 
 input {
   width: 100%;
   font-size: x-large;
-  padding: 0.2rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  box-sizing: border-box;
 }
 
 img {
