@@ -1,3 +1,4 @@
+import React from "react";
 import "./App.css";
 import gifs from "./gifs.json";
 import PropTypes from "prop-types";
@@ -17,6 +18,7 @@ GifRow.propTypes = {
 };
 
 function App() {
+  const [filter, filterSet] = React.useState("");
   return (
     <div
       style={{
@@ -26,6 +28,7 @@ function App() {
       }}
     >
       <h1 className="title">Allenbot Gifs</h1>
+      <input value={filter} onChange={(evt) => filterSet(evt.target.value)} />
       <table width="100%">
         <thead>
           <tr>
@@ -34,9 +37,12 @@ function App() {
           </tr>
         </thead>
         <tbody>
-          {gifs.slice(0, 20).map((gif) => (
-            <GifRow gif={gif} key={gif._id} />
-          ))}
+          {gifs
+            .filter((gif) => gif.tags.includes(filter))
+            .slice(0, 20)
+            .map((gif) => (
+              <GifRow gif={gif} key={gif._id} />
+            ))}
         </tbody>
       </table>
     </div>
