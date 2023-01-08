@@ -24,6 +24,7 @@ function App() {
       style={{
         margin: "auto",
         width: 800,
+        maxWidth: "90%",
         paddingTop: "1rem",
       }}
     >
