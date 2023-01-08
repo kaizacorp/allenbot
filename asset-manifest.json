@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/allenbot/static/css/main.46f7b605.css",
-    "main.js": "/allenbot/static/js/main.33e1d3a9.js",
+    "main.css": "/allenbot/static/css/main.0e4ee4b8.css",
+    "main.js": "/allenbot/static/js/main.2449d1f6.js",
     "static/js/787.7a97be18.chunk.js": "/allenbot/static/js/787.7a97be18.chunk.js",
     "index.html": "/allenbot/index.html",
-    "main.46f7b605.css.map": "/allenbot/static/css/main.46f7b605.css.map",
-    "main.33e1d3a9.js.map": "/allenbot/static/js/main.33e1d3a9.js.map",
+    "main.0e4ee4b8.css.map": "/allenbot/static/css/main.0e4ee4b8.css.map",
+    "main.2449d1f6.js.map": "/allenbot/static/js/main.2449d1f6.js.map",
     "787.7a97be18.chunk.js.map": "/allenbot/static/js/787.7a97be18.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46f7b605.css",
-    "static/js/main.33e1d3a9.js"
+    "static/css/main.0e4ee4b8.css",
+    "static/js/main.2449d1f6.js"
   ]
 }
