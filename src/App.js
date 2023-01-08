@@ -38,7 +38,9 @@ function App() {
         </thead>
         <tbody>
           {gifs
-            .filter((gif) => gif.tags.includes(filter))
+            .filter((gif) =>
+              gif.tags.toLowerCase().includes(filter.toLowerCase())
+            )
             .slice(0, 20)
             .map((gif) => (
               <GifRow gif={gif} key={gif._id} />
