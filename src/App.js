@@ -33,7 +33,7 @@ function App() {
       <table>
         <thead>
           <tr>
-            <th>URL</th>
+            <th>GIF</th>
             <th>Tags</th>
           </tr>
         </thead>
