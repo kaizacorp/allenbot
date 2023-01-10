@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-import gifs from "./gifs.json";
 import PropTypes from "prop-types";
 
 const GifRow = ({ gif }) => (
@@ -19,6 +18,18 @@ GifRow.propTypes = {
 
 function App() {
   const [filter, filterSet] = React.useState("");
+  const [gifs, gifsSet] = React.useState([]);
+
+  React.useEffect(() => {
+    fetch("/allenbot/gifs.json")
+      .then((resp) => resp.json())
+      .then((data) => gifsSet(data));
+  }, []);
+
+  if (!gifs.length) {
+    return <div>Loading data</div>;
+  }
+
   return (
     <div
       style={{
