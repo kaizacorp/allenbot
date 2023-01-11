@@ -1,7 +1,3 @@
-.title {
-  text-align: center;
-}
-
 table {
   border-collapse: collapse;
   width: 100%;
@@ -27,14 +23,6 @@ tbody tr:hover {
 
 td {
   text-align: center;
-}
-
-input {
-  width: 100%;
-  font-size: x-large;
-  padding-top: 0.2rem;
-  padding-bottom: 0.2rem;
-  box-sizing: border-box;
 }
 
 img {

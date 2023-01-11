@@ -1,6 +1,7 @@
 import React from "react";
-import "./App.css";
 import PropTypes from "prop-types";
+import styled from "@emotion/styled";
+import "./App.css";
 
 const GifRow = ({ gif }) => (
   <tr>
@@ -15,6 +16,25 @@ GifRow.propTypes = {
   url: PropTypes.string,
   tags: PropTypes.string,
 };
+
+const Container = styled.div`
+  margin: auto;
+  width: 800px;
+  max-width: 90%;
+  padding-top: 1rem;
+`;
+
+const Title = styled.h1`
+  text-align: center;
+`;
+
+const Input = styled.input`
+  width: 100%;
+  font-size: x-large;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  box-sizing: border-box;
+`;
 
 function App() {
   const [filter, filterSet] = React.useState("");
@@ -31,16 +51,9 @@ function App() {
   }
 
   return (
-    <div
-      style={{
-        margin: "auto",
-        width: 800,
-        maxWidth: "90%",
-        paddingTop: "1rem",
-      }}
-    >
-      <h1 className="title">Allenbot Gifs</h1>
-      <input value={filter} onChange={(evt) => filterSet(evt.target.value)} />
+    <Container>
+      <Title>Allenbot Gifs</Title>
+      <Input value={filter} onChange={(evt) => filterSet(evt.target.value)} />
       <table>
         <thead>
           <tr>
@@ -59,7 +72,7 @@ function App() {
             ))}
         </tbody>
       </table>
-    </div>
+    </Container>
   );
 }
 
