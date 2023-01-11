@@ -1,4 +1,6 @@
-React app for displaying all the wonderful Library of Allenxandria gifs!
+React app for displaying all the wonderful [Library of Allenxandria](https://www.youtube.com/@TheLibraryofAllenxandria) gifs!
+
+Currently hosted using GitHub Pages at https://kaizacorp.github.io/allenbot/
 
 TODO:
 
