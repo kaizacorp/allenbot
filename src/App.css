@@ -1,31 +1,4 @@
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th {
-  padding-top: 12px;
-  padding-bottom: 12px;
-  padding-left:4px;
-  text-align: center;
-  font-size: x-large;
-  color:#fff;
-  background-color: rgb(94, 114, 207);
-}
-
-tbody tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
-
-tbody tr:hover {
-  background-color: #ddd;
-}
-
-td {
-  text-align: center;
-}
-
-.image-grid {
+.gif-grid {
   display: grid;
   grid-gap: 10px;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -34,7 +7,7 @@ td {
   margin-bottom: 10px;
 }
 
-.image-item:nth-child(5n) {
+.gif-item:nth-child(5n) {
     grid-column-end: span 2;
 }
 

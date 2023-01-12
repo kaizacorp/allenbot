@@ -3,20 +3,20 @@ import PropTypes from "prop-types";
 import styled from "@emotion/styled";
 import "./App.css";
 
-const GifRow = ({ gif }) => (
-  <div key={gif._id}>
+const GifItem = ({ gif }) => (
+  <div className="gif-item" key={gif._id}>
     <img src={gif.url} alt="allen gif"></img>
   </div>
 );
 
-GifRow.propTypes = {
+GifItem.propTypes = {
   url: PropTypes.string,
   tags: PropTypes.string,
 };
 
 const Container = styled.div`
   margin: auto;
-  width: 800px;
+  width: 1000px;
   max-width: 90%;
   padding-top: 1rem;
 `;
@@ -55,14 +55,14 @@ function App() {
         value={filter}
         onChange={(evt) => filterSet(evt.target.value)}
       />
-      <div className="image-grid">
+      <div className="gif-grid">
         {gifs
           .filter((gif) =>
             gif.tags.toLowerCase().includes(filter.toLowerCase())
           )
           .slice(0, 18)
           .map((gif) => (
-            <GifRow gif={gif} key={gif._id} />
+            <GifItem gif={gif} key={gif._id} />
           ))}
       </div>
     </Container>
