@@ -4,10 +4,10 @@ Currently hosted using GitHub Pages at https://kaizacorp.github.io/allenbot/
 
 TODO:
 
-- placeholder text for search to prompt user
+- ~~placeholder text for search to prompt user~~
 - links to The Library of Allenxandira YouTube, relevant github repos
 - filter/search on submit or after delay
-- display gifs in responsive mosiac
+- ~~display gifs in responsive mosiac~~
 - request all gifs via allenxandria-gif-api
 - random gifs for initial page
 - infinite scroll
