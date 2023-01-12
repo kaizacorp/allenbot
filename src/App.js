@@ -4,12 +4,9 @@ import styled from "@emotion/styled";
 import "./App.css";
 
 const GifRow = ({ gif }) => (
-  <tr key={gif._id}>
-    <td>
-      <img src={gif.url} alt="allen gif"></img>
-    </td>
-    <td>{gif.tags}</td>
-  </tr>
+  <div key={gif._id}>
+    <img src={gif.url} alt="allen gif"></img>
+  </div>
 );
 
 GifRow.propTypes = {
@@ -54,27 +51,20 @@ function App() {
       <Title>Allenbot Gifs</Title>
       <Input
         type="text"
+        placeholder="Search by tags, ex: 'why'"
         value={filter}
         onChange={(evt) => filterSet(evt.target.value)}
       />
-      <table>
-        <thead>
-          <tr>
-            <th>GIF</th>
-            <th>Tags</th>
-          </tr>
-        </thead>
-        <tbody>
-          {gifs
-            .filter((gif) =>
-              gif.tags.toLowerCase().includes(filter.toLowerCase())
-            )
-            .slice(0, 20)
-            .map((gif) => (
-              <GifRow gif={gif} key={gif._id} />
-            ))}
-        </tbody>
-      </table>
+      <div className="image-grid">
+        {gifs
+          .filter((gif) =>
+            gif.tags.toLowerCase().includes(filter.toLowerCase())
+          )
+          .slice(0, 18)
+          .map((gif) => (
+            <GifRow gif={gif} key={gif._id} />
+          ))}
+      </div>
     </Container>
   );
 }
