@@ -4,7 +4,7 @@ import styled from "@emotion/styled";
 import "./App.css";
 
 const GifRow = ({ gif }) => (
-  <tr>
+  <tr key={gif._id}>
     <td>
       <img src={gif.url} alt="allen gif"></img>
     </td>
@@ -30,9 +30,8 @@ const Title = styled.h1`
 
 const Input = styled.input`
   width: 100%;
-  font-size: x-large;
-  padding-top: 0.2rem;
-  padding-bottom: 0.2rem;
+  font-size: large;
+  padding: 0.2rem;
   box-sizing: border-box;
 `;
 
@@ -53,7 +52,11 @@ function App() {
   return (
     <Container>
       <Title>Allenbot Gifs</Title>
-      <Input value={filter} onChange={(evt) => filterSet(evt.target.value)} />
+      <Input
+        type="text"
+        value={filter}
+        onChange={(evt) => filterSet(evt.target.value)}
+      />
       <table>
         <thead>
           <tr>
