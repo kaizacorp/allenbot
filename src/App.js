@@ -1,18 +1,10 @@
 import React from "react";
-import PropTypes from "prop-types";
 import styled from "@emotion/styled";
 import "./App.css";
 
-const GifItem = ({ gif }) => (
-  <div className="gif-item" key={gif._id}>
-    <img src={gif.url} alt="allen gif"></img>
-  </div>
-);
-
-GifItem.propTypes = {
-  url: PropTypes.string,
-  tags: PropTypes.string,
-};
+import GifsContext from "./GifsContext";
+import GifsFilter from "./components/GifsFilter";
+import GifsGrid from "./components/GifsGrid";
 
 const Container = styled.div`
   margin: auto;
@@ -23,13 +15,6 @@ const Container = styled.div`
 
 const Title = styled.h1`
   text-align: center;
-`;
-
-const Input = styled.input`
-  width: 100%;
-  font-size: large;
-  padding: 0.2rem;
-  box-sizing: border-box;
 `;
 
 function App() {
@@ -47,25 +32,20 @@ function App() {
   }
 
   return (
-    <Container>
-      <Title>Allenbot Gifs</Title>
-      <Input
-        type="text"
-        placeholder="Search by tags, ex: 'why'"
-        value={filter}
-        onChange={(evt) => filterSet(evt.target.value)}
-      />
-      <div className="gif-grid">
-        {gifs
-          .filter((gif) =>
-            gif.tags.toLowerCase().includes(filter.toLowerCase())
-          )
-          .slice(0, 18)
-          .map((gif) => (
-            <GifItem gif={gif} key={gif._id} />
-          ))}
-      </div>
-    </Container>
+    <GifsContext.Provider
+      value={{
+        filter,
+        gifs,
+        filterSet,
+        gifsSet,
+      }}
+    >
+      <Container>
+        <Title>Allenbot Gifs</Title>
+        <GifsFilter />
+        <GifsGrid />
+      </Container>
+    </GifsContext.Provider>
   );
 }
 
