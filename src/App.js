@@ -20,12 +20,18 @@ const Title = styled.h1`
 function App() {
   const [filter, filterSet] = React.useState("");
   const [gifs, gifsSet] = React.useState([]);
+  const [query, setQuery] = React.useState("");
 
   React.useEffect(() => {
     fetch("/allenbot/gifs.json")
       .then((resp) => resp.json())
       .then((data) => gifsSet(data));
   }, []);
+
+  React.useEffect(() => {
+    const timeOutId = setTimeout(() => filterSet(query), 600);
+    return () => clearTimeout(timeOutId);
+  }, [query]);
 
   if (!gifs.length) {
     return <div>Loading data</div>;
@@ -38,6 +44,8 @@ function App() {
         gifs,
         filterSet,
         gifsSet,
+        query,
+        setQuery,
       }}
     >
       <Container>

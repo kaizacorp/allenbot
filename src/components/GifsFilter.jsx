@@ -11,13 +11,14 @@ box-sizing: border-box;
 `;
 
 const GifsFilter = () => {
-    const {filter, filterSet} = useContext(GifsContext);
+    const {query, setQuery} = useContext(GifsContext);
+
     return (
     <Input 
         type="text"
         placeholder="Search by tags, ex: 'why'"
-        value={filter}
-        onChange={(evt) => filterSet(evt.target.value)} />
+        value={query}
+        onChange={(evt) => setQuery(evt.target.value)} />
     );
 };
 
