@@ -16,7 +16,7 @@ const GifsFilter = () => {
     return (
     <Input 
         type="text"
-        placeholder="Search by tags, ex: 'why'"
+        placeholder="Search by tags! For example try: why, know, or philip"
         value={query}
         onChange={(evt) => setQuery(evt.target.value)} />
     );
