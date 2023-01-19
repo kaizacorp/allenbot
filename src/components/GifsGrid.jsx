@@ -11,7 +11,7 @@ const GifsGrid = () => {
             .filter((gif) =>
               gif.tags.toLowerCase().includes(filter.toLowerCase())
             )
-            .slice(0, 18)
+            .slice(0, 25)
             .map((gif) => (
               <GifItem gif={gif} key={gif._id} />
             ))}
