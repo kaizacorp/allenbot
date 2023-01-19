@@ -5,13 +5,14 @@ import GifItem from './GifItem';
 
 const GifsGrid = () => {
     const {gifs, filter} = useContext(GifsContext);
+    let max = (filter.length > 2) ? -1 : 18;
     return (
         <div className="gif-grid">
           {gifs
             .filter((gif) =>
               gif.tags.toLowerCase().includes(filter.toLowerCase())
             )
-            .slice(0, 25)
+            .slice(0, max)
             .map((gif) => (
               <GifItem gif={gif} key={gif._id} />
             ))}
