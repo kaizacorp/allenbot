@@ -7,7 +7,7 @@ const GifsGrid = () => {
     const {
       state: {gifs, filter},
     } = useContext(GifsContext);
-    let max = (filter.length > 2) ? -1 : 18;
+    let max = (filter.length > 1) ? -1 : 18;
     return (
         <div className="gif-grid">
           {gifs
