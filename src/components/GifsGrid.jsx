@@ -8,6 +8,10 @@ const GifsGrid = () => {
       state: {gifs, filter},
     } = useContext(GifsContext);
     let max = (filter.trim().length > 1) ? -1 : 18;
+    if(gifs.filter((gif) =>
+    gif.tags.toLowerCase().includes(filter.toLowerCase().trim())).length === 0) {
+        return(<div className="gif-grid">No matching tags found for: {filter}</div>)
+    }
     return (
         <div className="gif-grid">
           {gifs
