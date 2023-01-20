@@ -11,14 +11,19 @@ box-sizing: border-box;
 `;
 
 const GifsFilter = () => {
-    const {query, setQuery} = useContext(GifsContext);
+    const {state: {query},
+    dispatch} = useContext(GifsContext);
 
     return (
     <Input 
         type="text"
         placeholder="Search by tags! For example try: why, know, or philip"
         value={query}
-        onChange={(evt) => setQuery(evt.target.value)} />
+        onChange={(evt) => dispatch(
+            {
+                type: 'SET_QUERY',
+                payload: evt.target.value,
+            })} />
     );
 };
 

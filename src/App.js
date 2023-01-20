@@ -6,6 +6,28 @@ import GifsContext from "./GifsContext";
 import GifsFilter from "./components/GifsFilter";
 import GifsGrid from "./components/GifsGrid";
 
+const GifReducer = (state, action) => {
+  switch (action.type) {
+    case "SET_FILTER":
+      return {
+        ...state,
+        filter: action.payload,
+      };
+    case "SET_GIFS":
+      return {
+        ...state,
+        gifs: action.payload,
+      };
+    case "SET_QUERY":
+      return {
+        ...state,
+        query: action.payload,
+      };
+    default:
+      throw new Error("No action");
+  }
+};
+
 const Container = styled.div`
   margin: auto;
   width: 1000px;
@@ -18,34 +40,44 @@ const Title = styled.h1`
 `;
 
 function App() {
-  const [filter, filterSet] = React.useState("");
-  const [gifs, gifsSet] = React.useState([]);
-  const [query, setQuery] = React.useState("");
+  const [state, dispatch] = React.useReducer(GifReducer, {
+    filter: "",
+    gifs: [],
+    query: "",
+  });
 
   React.useEffect(() => {
     fetch("/allenbot/gifs.json")
       .then((resp) => resp.json())
-      .then((data) => gifsSet(data));
+      .then((data) =>
+        dispatch({
+          type: "SET_GIFS",
+          payload: data,
+        })
+      );
   }, []);
 
   React.useEffect(() => {
-    const timeOutId = setTimeout(() => filterSet(query), 600);
+    const timeOutId = setTimeout(
+      () =>
+        dispatch({
+          type: "SET_FILTER",
+          payload: state.query,
+        }),
+      600
+    );
     return () => clearTimeout(timeOutId);
-  }, [query]);
+  }, [state.query]);
 
-  if (!gifs.length) {
+  if (!state.gifs.length) {
     return <div>Loading data</div>;
   }
 
   return (
     <GifsContext.Provider
       value={{
-        filter,
-        gifs,
-        filterSet,
-        gifsSet,
-        query,
-        setQuery,
+        state,
+        dispatch,
       }}
     >
       <Container>

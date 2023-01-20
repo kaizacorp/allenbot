@@ -4,7 +4,9 @@ import GifsContext from '../GifsContext';
 import GifItem from './GifItem';
 
 const GifsGrid = () => {
-    const {gifs, filter} = useContext(GifsContext);
+    const {
+      state: {gifs, filter},
+    } = useContext(GifsContext);
     let max = (filter.length > 2) ? -1 : 18;
     return (
         <div className="gif-grid">
