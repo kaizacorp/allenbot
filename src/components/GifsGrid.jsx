@@ -12,7 +12,7 @@ const GifsGrid = () => {
         <div className="gif-grid">
           {gifs
             .filter((gif) =>
-              gif.tags.toLowerCase().includes(filter.toLowerCase())
+              gif.tags.toLowerCase().includes(filter.toLowerCase().trim())
             )
             .slice(0, max)
             .map((gif) => (
