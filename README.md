@@ -4,14 +4,14 @@ Currently hosted using GitHub Pages at https://kaizacorp.github.io/allenbot/
 
 TODO:
 
-- ~~placeholder text for search to prompt user~~
-- links to The Library of Allenxandira YouTube, relevant github repos
-- ~~filter/search on submit or after delay~~
-- ~~display gifs in responsive mosiac~~
-- request all gifs via allenxandria-gif-api
-- random gifs for initial page [implemented in backend]
-- infinite scroll
+- footer with links to The Library of Allenxandira YouTube, relevant github repos, credit to Evie for gifs
 - gifs as links to gif-specific pages to show tags
 - 'copy link' button
-- option to sort by most recent [implemented in backend]
-- option to sort by most popular [implemented in backend]
+
+- request all gifs via allenxandria-gif-api *
+- infinite scroll *
+- random gifs for initial page *
+- option to sort by most recent *
+- option to sort by most popular *
+
+* = implemented in backend, waiting on API updates/deployment
