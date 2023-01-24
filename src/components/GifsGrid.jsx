@@ -13,12 +13,14 @@ const GifsGrid = () => {
         No matching tags found.
       </div>
     )
+    const cleanFilter = filter.toLowerCase().trim();
+    const validFilter = cleanFilter.length > 1 ? cleanFilter : "";
     return (
         <div className="gif-grid">
-          {gifs.filter((gif) => gif.tags.toLowerCase().includes(filter.toLowerCase().trim())).length ? null : <Default/>}
+          {gifs.filter((gif) => gif.tags.toLowerCase().includes(validFilter)).length ? null : <Default/>}
           {gifs
             .filter((gif) =>
-              gif.tags.toLowerCase().includes(filter.toLowerCase().trim())
+              gif.tags.toLowerCase().includes(validFilter)
             )
             .slice(0, max)
             .map((gif) => (
