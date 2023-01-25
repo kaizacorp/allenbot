@@ -6,7 +6,15 @@ import GifsContext from "./GifsContext";
 import GifsFilter from "./components/GifsFilter";
 import GifsGrid from "./components/GifsGrid";
 
-const GifReducer = (state, action) => {
+const initialState = {
+  filter: "",
+  gifs: [],
+  query: "",
+  focus: "",
+  total: 0,
+};
+
+const GifReducer = (state = initialState, action) => {
   switch (action.type) {
     case "SET_FILTER":
       return {
@@ -17,11 +25,17 @@ const GifReducer = (state, action) => {
       return {
         ...state,
         gifs: action.payload,
+        total: action.payload.length,
       };
     case "SET_QUERY":
       return {
         ...state,
         query: action.payload,
+      };
+    case "SET_FOCUS":
+      return {
+        ...state,
+        query: action.paylod,
       };
     default:
       throw new Error("No action");
@@ -40,11 +54,7 @@ const Title = styled.h1`
 `;
 
 function App() {
-  const [state, dispatch] = React.useReducer(GifReducer, {
-    filter: "",
-    gifs: [],
-    query: "",
-  });
+  const [state, dispatch] = React.useReducer(GifReducer, initialState);
 
   React.useEffect(() => {
     fetch("/allenbot/gifs.json")
@@ -69,6 +79,8 @@ function App() {
     return () => clearTimeout(timeOutId);
   }, [state.query]);
 
+  React.useEffect(() => {});
+
   if (!state.gifs.length) {
     return <div>Loading data</div>;
   }
@@ -81,7 +93,7 @@ function App() {
       }}
     >
       <Container>
-        <Title>Allenbot Gifs</Title>
+        <Title>{state.total} Allenbot Gifs</Title>
         <GifsFilter />
         <GifsGrid />
       </Container>
