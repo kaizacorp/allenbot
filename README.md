@@ -7,7 +7,7 @@ TODO:
 - footer with links to The Library of Allenxandira YouTube, relevant github repos, credit to Evie for gifs
 - gifs as links to gif-specific pages to show tags
 - 'copy link' button
-
+- show total gif count, maybe in prompt?
 - request all gifs via allenxandria-gif-api *
 - infinite scroll *
 - random gifs for initial page *
