@@ -11,13 +11,13 @@ box-sizing: border-box;
 `;
 
 const GifsFilter = () => {
-    const {state: {query},
+    const {state: {query, total},
     dispatch} = useContext(GifsContext);
 
     return (
     <Input 
         type="text"
-        placeholder="Try: why, know, or philip"
+        placeholder={`Search ${total} gifs!`}
         value={query}
         onChange={(evt) => dispatch(
             {

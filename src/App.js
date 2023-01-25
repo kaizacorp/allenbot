@@ -93,7 +93,7 @@ function App() {
       }}
     >
       <Container>
-        <Title>{state.total} Allenbot Gifs</Title>
+        <Title>Allenbot Gifs</Title>
         <GifsFilter />
         <GifsGrid />
       </Container>
