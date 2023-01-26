@@ -7,7 +7,7 @@ const GifsGrid = () => {
     const {
       state: {gifs, filter},
     } = useContext(GifsContext);
-    let max = (filter.trim().length > 1) ? -1 : 18;
+    let max = (filter.trim().length > 2) ? -1 : 18;
     const Default = () => (
       <div id="default" className="filter-default">
         No matching tags found.
