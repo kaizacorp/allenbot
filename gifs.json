@@ -1,5 +1,13 @@
 [
     {
+        "_id": "619c340ba78c9ac16874e8d9",
+        "url": "https://cdn.discordapp.com/attachments/834826825943089184/912497979032752158/wegotone.gif",
+        "tags": "yes yes we got one",
+        "__v": 0,
+        "date": "Wed, 25 Jan 2023 23:59:57 GMT",
+        "points": 10
+    },
+    {
         "_id": "619b08bdb56df83e72b62e00",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061355585829867630/allenxandria-im-the-five-star-strumpet.gif",
         "tags": "im the five star strumpet 5",
@@ -43,6 +51,22 @@
         "points": 5
     },
     {
+        "_id": "619c473fa78c9ac16874e999",
+        "url": "https://cdn.discordapp.com/attachments/834826825943089184/912518602677186600/theentirething.gif",
+        "tags": "literally the entire thing word for word thats no joke",
+        "__v": 0,
+        "date": "Wed, 25 Jan 2023 22:27:21 GMT",
+        "points": 5
+    },
+    {
+        "_id": "619c9dd4a78c9ac16874ea37",
+        "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063222293209292821/allenxandria-this-is-crap.gif",
+        "tags": "this is crap",
+        "__v": 0,
+        "date": "Thu, 26 Jan 2023 19:47:44 GMT",
+        "points": 5
+    },
+    {
         "_id": "61f0196b035b8c8a40d407b6",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/935547824534339584/fivestarmadam.gif",
         "tags": "im the five star madam at this point",
@@ -56,6 +80,14 @@
         "tags": "bro",
         "__v": 0,
         "date": "Tue, 24 Jan 2023 17:51:07 GMT",
+        "points": 5
+    },
+    {
+        "_id": "6316294f8d95ad7abd63507c",
+        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1016361545103585332/hereibe.gif",
+        "tags": "here I be",
+        "__v": 0,
+        "date": "Wed, 25 Jan 2023 23:59:10 GMT",
         "points": 5
     },
     {
@@ -75,6 +107,14 @@
         "points": 5
     },
     {
+        "_id": "63c5c3d2314f6228346b3351",
+        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1064653046065414235/whyusefewwordswhenmanywordsdotrick.gif",
+        "tags": "why use few words when many words do trick",
+        "__v": 0,
+        "date": "Wed, 25 Jan 2023 22:27:36 GMT",
+        "points": 5
+    },
+    {
         "_id": "63c708ef314f6228346b3369",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1065008136693485628/imaterriblefriend.gif",
         "tags": "im a terrible friend",
@@ -91,11 +131,43 @@
         "points": 2
     },
     {
+        "_id": "619c2ca9a78c9ac16874e8aa",
+        "url": "https://cdn.discordapp.com/attachments/834826825943089184/912489909275721728/thisishard.gif",
+        "tags": "this is hard",
+        "__v": 0,
+        "date": "Wed, 25 Jan 2023 15:04:05 GMT",
+        "points": 1
+    },
+    {
         "_id": "619c39a2a78c9ac16874e90d",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912503995363360808/stopthemadness.gif",
         "tags": "what stop the madness",
         "__v": 0,
         "date": "Sat, 21 Jan 2023 22:36:21 GMT",
+        "points": 1
+    },
+    {
+        "_id": "619c9e31a78c9ac16874ea39",
+        "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063208382070259852/allenxandria-its-all-true.gif",
+        "tags": "thats a stupid story but its all true",
+        "__v": 0,
+        "date": "Wed, 25 Jan 2023 15:05:10 GMT",
+        "points": 1
+    },
+    {
+        "_id": "63c5c423314f6228346b3357",
+        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1064653064809758790/evenfantasticer.gif",
+        "tags": "even fantasticer fantastic-er",
+        "__v": 0,
+        "date": "Wed, 25 Jan 2023 15:02:51 GMT",
+        "points": 1
+    },
+    {
+        "_id": "63c70950314f6228346b3371",
+        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1065008161754456185/shoutouttomyboy.gif",
+        "tags": "shout out to my boy shoutout",
+        "__v": 0,
+        "date": "Wed, 25 Jan 2023 15:04:48 GMT",
         "points": 1
     },
     {
@@ -765,12 +837,6 @@
         "__v": 0
     },
     {
-        "_id": "619c2ca9a78c9ac16874e8aa",
-        "url": "https://cdn.discordapp.com/attachments/834826825943089184/912489909275721728/thisishard.gif",
-        "tags": "this is hard",
-        "__v": 0
-    },
-    {
         "_id": "619c2cd8a78c9ac16874e8ad",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912490216755961916/ihaventreadlotr.gif",
         "tags": "i havent read lord of the rings lotr",
@@ -894,12 +960,6 @@
         "_id": "619c33b6a78c9ac16874e8d7",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912497595211997274/thatwasforyou.gif",
         "tags": "that was for you",
-        "__v": 0
-    },
-    {
-        "_id": "619c340ba78c9ac16874e8d9",
-        "url": "https://cdn.discordapp.com/attachments/834826825943089184/912497979032752158/wegotone.gif",
-        "tags": "yes yes we got one",
         "__v": 0
     },
     {
@@ -1468,12 +1528,6 @@
         "__v": 0
     },
     {
-        "_id": "619c473fa78c9ac16874e999",
-        "url": "https://cdn.discordapp.com/attachments/834826825943089184/912518602677186600/theentirething.gif",
-        "tags": "literally the entire thing word for word thats no joke",
-        "__v": 0
-    },
-    {
         "_id": "619c4759a78c9ac16874e99b",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912518738560040970/nice.gif",
         "tags": "nice",
@@ -1939,19 +1993,6 @@
         "_id": "619c9db3a78c9ac16874ea35",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063222563825791076/allenxandria-you-idiot.gif",
         "tags": "you idiot",
-        "__v": 0
-    },
-    {
-        "_id": "619c9dd4a78c9ac16874ea37",
-        "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063222293209292821/allenxandria-this-is-crap.gif",
-        "tags": "this is crap",
-        "__v": 0,
-        "date": "Sat, 21 Jan 2023 22:33:50 GMT"
-    },
-    {
-        "_id": "619c9e31a78c9ac16874ea39",
-        "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063208382070259852/allenxandria-its-all-true.gif",
-        "tags": "thats a stupid story but its all true",
         "__v": 0
     },
     {
@@ -2678,12 +2719,6 @@
         "_id": "631629408d95ad7abd63507a",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1016361544797392916/howdareyousir.gif",
         "tags": "how dare you sir",
-        "__v": 0
-    },
-    {
-        "_id": "6316294f8d95ad7abd63507c",
-        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1016361545103585332/hereibe.gif",
-        "tags": "here I be",
         "__v": 0
     },
     {
@@ -3479,12 +3514,6 @@
         "__v": 0
     },
     {
-        "_id": "63c5c3d2314f6228346b3351",
-        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1064653046065414235/whyusefewwordswhenmanywordsdotrick.gif",
-        "tags": "why use few words when many words do trick",
-        "__v": 0
-    },
-    {
         "_id": "63c5c3f4314f6228346b3353",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1064653064088342589/steppeduphighoctanehavingchuggedamonster.gif",
         "tags": "stepped up high octane having chugged a monster",
@@ -3494,12 +3523,6 @@
         "_id": "63c5c40a314f6228346b3355",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1064653064419672105/idontknowwhereiwasgoing.gif",
         "tags": "i dont know where i was going",
-        "__v": 0
-    },
-    {
-        "_id": "63c5c423314f6228346b3357",
-        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1064653064809758790/evenfantasticer.gif",
-        "tags": "even fantasticer fantastic-er",
         "__v": 0
     },
     {
@@ -3567,12 +3590,6 @@
         "_id": "63c70934314f6228346b336f",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1065008150052360232/themasterofsongthebardoftheairwaves.gif",
         "tags": "the master of song the bard of the airwaves",
-        "__v": 0
-    },
-    {
-        "_id": "63c70950314f6228346b3371",
-        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1065008161754456185/shoutouttomyboy.gif",
-        "tags": "shout out to my boy shoutout",
         "__v": 0
     },
     {
