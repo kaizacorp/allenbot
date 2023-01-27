@@ -13,4 +13,4 @@ TODO:
 - option to sort by most recent *
 - option to sort by most popular *
 
-* = implemented in backend, waiting on API updates/deployment
+\* = implemented in backend, waiting on API updates/deployment
