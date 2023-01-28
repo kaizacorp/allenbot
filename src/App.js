@@ -10,7 +10,6 @@ const initialState = {
   filter: "",
   gifs: [],
   query: "",
-  focus: "",
   total: 0,
 };
 
@@ -31,11 +30,6 @@ const GifReducer = (state = initialState, action) => {
       return {
         ...state,
         query: action.payload,
-      };
-    case "SET_FOCUS":
-      return {
-        ...state,
-        query: action.paylod,
       };
     default:
       throw new Error("No action");
@@ -78,8 +72,6 @@ function App() {
     );
     return () => clearTimeout(timeOutId);
   }, [state.query]);
-
-  React.useEffect(() => {});
 
   if (!state.gifs.length) {
     return <div>Loading data</div>;
