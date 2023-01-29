@@ -8,7 +8,7 @@ TODO:
 - gifs as links to gif-specific pages to show tags
 - 'copy link' button
 - request all gifs via allenxandria-gif-api *
-- infinite scroll *
+- infinite scroll [requires changes in backend to implement the standard way]
 - random gifs for initial page *
 - option to sort by most recent *
 - option to sort by most popular *
