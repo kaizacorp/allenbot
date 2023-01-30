@@ -18,9 +18,7 @@ const GifsGrid = () => {
       state: {gifs, filter},
     } = useContext(GifsContext);
     
-    // restrict number of gifs shown if filter is 2 chars or less
-    // show all other wise (greater likelyhood it's actually a word)
-    let max = (filter.trim().length > 2) ? -1 : 18;
+    let max = 18;
 
 
     // is a valid filter string if 2 characters or more after trimming
@@ -31,14 +29,14 @@ const GifsGrid = () => {
     return (
         <div className="gif-grid">
           {/* if after filtering the resulting array of gifs has no results, show the Default component to let the user know */}
-          {gifs.filter((gif) => gif.tags.toLowerCase().includes(validFilter)).length ? null : <NoMatchingTags tag={filter}/>}
+          {gifs.filter((gif) => (gif.tags.toLowerCase().includes(validFilter))).length ? null : <NoMatchingTags tag={filter}/>}
 
           {/* show all gifs with tags matching filter (up to max) as GifItem components  */}
           {gifs
             .filter((gif) =>
               gif.tags.toLowerCase().includes(validFilter)
             )
-            .slice(0, max)
+            .slice(0,max)
             .map((gif) => (
               <GifItem gif={gif} key={gif._id} />
             ))}
