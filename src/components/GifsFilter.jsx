@@ -18,7 +18,6 @@ const GifsFilter = () => {
         >
             <TextField fullWidth label={`Search ${total} gifs!`} id="fullWidth"
                 type="text"
-                placeholder={`Search ${total} gifs!`}
                 value={query}
                 onChange={(evt) => dispatch({
                     type: 'SET_QUERY',
