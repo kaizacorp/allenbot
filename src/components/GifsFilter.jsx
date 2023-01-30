@@ -12,11 +12,11 @@ const GifsFilter = () => {
     return (
         <Box
             sx={{
-                width: 500,
+                width: '100%',
                 maxWidth: '100%',
             }}
         >
-            <TextField fullWidth label="fullWidth" id="fullWidth"
+            <TextField fullWidth label={`Search ${total} gifs!`} id="fullWidth"
                 type="text"
                 placeholder={`Search ${total} gifs!`}
                 value={query}
