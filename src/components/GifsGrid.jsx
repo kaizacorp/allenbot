@@ -3,6 +3,16 @@ import React, {useContext} from 'react';
 import GifsContext from '../GifsContext';
 import GifItem from './GifItem';
 
+// default component if no gifs with matching tags are found.
+const NoMatchingTags = ({tag}) => {
+  return (
+    <div id="default" className="filter-default" >
+    No matching tags found for: <br/> '{tag}'
+    </div>
+  );
+}
+
+
 const GifsGrid = () => {
     const {
       state: {gifs, filter},
@@ -12,12 +22,6 @@ const GifsGrid = () => {
     // show all other wise (greater likelyhood it's actually a word)
     let max = (filter.trim().length > 2) ? -1 : 18;
 
-    // default component if no gifs with matching tags are found.
-    const Default = () => (
-      <div id="default" className="filter-default">
-        No matching tags found.
-      </div>
-    )
 
     // is a valid filter string if 2 characters or more after trimming
     // single characters get too many matches, poor UX -> unable to search for gifs with "I" though
@@ -27,7 +31,7 @@ const GifsGrid = () => {
     return (
         <div className="gif-grid">
           {/* if after filtering the resulting array of gifs has no results, show the Default component to let the user know */}
-          {gifs.filter((gif) => gif.tags.toLowerCase().includes(validFilter)).length ? null : <Default/>}
+          {gifs.filter((gif) => gif.tags.toLowerCase().includes(validFilter)).length ? null : <NoMatchingTags tag={filter}/>}
 
           {/* show all gifs with tags matching filter (up to max) as GifItem components  */}
           {gifs
