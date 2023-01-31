@@ -27,14 +27,8 @@ const GifsGrid = () => {
           {/* if after filtering there are no matching results, let the user know which query failed */}
           {gifs.filter((gif) => (gif.tags.toLowerCase().includes(validFilter))).length ? null : <NoMatchingTags tag={filter}/>}
 
-          {/* show all gifs with tags matching filter (up to GIF_LIMIT) as GifItem components only if a filter exists */}
-          {filter ? gifs
-            .filter((gif) =>
-              gif.tags.toLowerCase().includes(validFilter)
-            )
-            .map((gif) => (
-              <GifItem gif={gif} key={gif._id} />
-            )) : gifs
+          {/* show all gifs with tags matching filter (up to GIF_LIMIT) as GifItem components */}
+          {gifs
             .filter((gif) =>
               gif.tags.toLowerCase().includes(validFilter)
             )
