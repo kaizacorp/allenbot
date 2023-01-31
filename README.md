@@ -7,6 +7,7 @@ TODO:
 - icons with links to The Library of Allenxandira YouTube, relevant github repos, credit to Evie for gifs
 - gifs as links to gif-specific pages to show tags
 - 'copy link' button
+- refresh on scroll up at top
 - request all gifs via allenxandria-gif-api *
 - infinite scroll [requires changes in backend to implement the standard way]
 - random gifs for initial page *
