@@ -28,14 +28,20 @@ const GifsGrid = () => {
           {/*gifs.filter((gif) => (gif.tags.toLowerCase().includes(validFilter))).length ? null : <NoMatchingTags tag={filter}/>*/}
 
           {/* show all gifs with tags matching filter (up to GIF_LIMIT) as GifItem components */}
-          {gifs
+          {filter ? gifs
+            .filter((gif) =>
+              gif.tags.toLowerCase().includes(validFilter)
+            )
+            .map((gif) => (
+              <GifItem gif={gif} key={gif._id} />
+            )) : gifs
             .filter((gif) =>
               gif.tags.toLowerCase().includes(validFilter)
             )
             .slice(0,GIF_LIMIT)
             .map((gif) => (
               <GifItem gif={gif} key={gif._id} />
-            ))}
+            ))  }
         </div>
     );
 };
