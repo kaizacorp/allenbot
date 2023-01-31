@@ -1,5 +1,4 @@
 import React, {useContext} from 'react';
-//import styled from "@emotion/styled";
 import GifsContext from '../GifsContext';
 import GifItem from './GifItem';
 
@@ -12,36 +11,32 @@ const NoMatchingTags = ({tag}) => {
   );
 }
 
-
 const GifsGrid = () => {
     const {
       state: {gifs, filter},
     } = useContext(GifsContext);
-    
-    let max = 18;
-
 
     // is a valid filter string if 2 characters or more after trimming
     // single characters get too many matches, poor UX -> unable to search for gifs with "I" though
     const cleanFilter = filter.toLowerCase().trim();
     const validFilter = cleanFilter.length > 1 ? cleanFilter : "";
+    const GIF_LIMIT = 18;
     
     return (
         <div className="gif-grid">
-          {/* if after filtering the resulting array of gifs has no results, show the Default component to let the user know */}
+          {/* if after filtering there are no matching results, let the user know which query failed */}
           {gifs.filter((gif) => (gif.tags.toLowerCase().includes(validFilter))).length ? null : <NoMatchingTags tag={filter}/>}
 
-          {/* show all gifs with tags matching filter (up to max) as GifItem components  */}
+          {/* show all gifs with tags matching filter (up to GIF_LIMIT) as GifItem components */}
           {gifs
             .filter((gif) =>
               gif.tags.toLowerCase().includes(validFilter)
             )
-            .slice(0,max)
+            .slice(0,GIF_LIMIT)
             .map((gif) => (
               <GifItem gif={gif} key={gif._id} />
             ))}
         </div>
-
     );
 };
 
