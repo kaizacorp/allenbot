@@ -8,7 +8,7 @@
 }
 @media (max-width: 550px) {
   .gif-grid {
-    grid-template-columns: min-content;
+    grid-template-columns: auto;
   }
 
 }
