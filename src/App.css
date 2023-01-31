@@ -1,12 +1,12 @@
 .gif-grid {
   display: grid;
   grid-gap: 10px;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
   grid-auto-rows: minmax(50px, auto);
   margin-top: 30px;
   margin-bottom: 10px;
 }
-@media (max-width: 550px) {
+@media (max-width: 500px) {
   .gif-grid {
     grid-template-columns: auto;
   }
