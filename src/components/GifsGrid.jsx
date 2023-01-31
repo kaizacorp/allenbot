@@ -32,6 +32,7 @@ const GifsGrid = () => {
             .filter((gif) =>
               gif.tags.toLowerCase().includes(validFilter)
             )
+            .slice(0,GIF_LIMIT)
             .map((gif) => (
               <GifItem gif={gif} key={gif._id} />
             ))}
