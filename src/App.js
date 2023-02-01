@@ -47,6 +47,8 @@ const Title = styled.h1`
   text-align: center;
 `;
 
+const FILTER_DELAY_IN_MS = 600;
+
 function App() {
   const [state, dispatch] = React.useReducer(GifReducer, initialState);
 
@@ -61,6 +63,7 @@ function App() {
       );
   }, []);
 
+  // delay rendering filtered gifs for better UX
   React.useEffect(() => {
     const timeOutId = setTimeout(
       () =>
@@ -68,7 +71,7 @@ function App() {
           type: "SET_FILTER",
           payload: state.query,
         }),
-      600
+      FILTER_DELAY_IN_MS
     );
     return () => clearTimeout(timeOutId);
   }, [state.query]);
