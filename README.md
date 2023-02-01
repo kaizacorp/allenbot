@@ -5,7 +5,7 @@ Currently hosted using GitHub Pages at https://kaizacorp.github.io/allenbot/
 TODO:
 
 - icons in footer with links to:
-    + The Library of Allenxandira YouTube
+    + The Library of Allenxandria YouTube
     + Discord
     + relevant github repos (robot-allen, allexnadria-gif-api)
     + credit to Evie for gifs
