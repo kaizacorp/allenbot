@@ -15,11 +15,11 @@ const GifsGrid = () => {
       state: {gifs, filter},
     } = useContext(GifsContext);
 
+    const GIF_LIMIT = 18;
+    const cleanFilter = filter.toLowerCase().trim();
     // single characters get too many matches, poor UX
     // -> unable to search for gifs with "I" though, for example
-    const cleanFilter = filter.toLowerCase().trim();
     const validFilter = cleanFilter.length > 1 ? cleanFilter : "";
-    const GIF_LIMIT = 18;
     
     return (
         <div className="gif-grid">
