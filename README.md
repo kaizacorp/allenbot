@@ -18,7 +18,7 @@ Currently hosted using GitHub Pages at https://kaizacorp.github.io/allenbot/
 - refresh page when scrolling-up at top of page
 - infinite scroll [requires changes in backend to implement the standard way]
 
-- implemented in backend, waiting on API updates/deployment:
+- implemented in some form in backend, but dependant on [allenxandria-gif-api](https://github.com/kaizacorp/allenxandria-gif-api/) updates/deployment:
 
     + request all gifs via allenxandria-gif-api 
     + random gifs for initial page 
