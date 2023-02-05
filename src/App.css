@@ -24,7 +24,7 @@ img {
     object-fit: cover;
 }
 
-.filter-default {
+.no-matching-tags-found {
   grid-column: 1/5;
   text-align: center;
 }
