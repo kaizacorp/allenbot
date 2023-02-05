@@ -28,3 +28,11 @@ img {
   grid-column: 1/5;
   text-align: center;
 }
+
+
+.footer {
+  display: grid;
+  place-items: center;
+  grid-template-rows: 100px;
+  grid-template-columns: 1fr 1fr 1fr;
+}

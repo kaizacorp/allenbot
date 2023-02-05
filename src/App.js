@@ -5,6 +5,7 @@ import "./App.css";
 import GifsContext from "./GifsContext";
 import GifsFilter from "./components/GifsFilter";
 import GifsGrid from "./components/GifsGrid";
+import Footer from "./components/Footer";
 
 const initialState = {
   filter: "",
@@ -91,6 +92,7 @@ function App() {
         <Title>Allenbot Gifs</Title>
         <GifsFilter />
         <GifsGrid />
+        <Footer />
       </Container>
     </GifsContext.Provider>
   );
