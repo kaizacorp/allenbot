@@ -36,3 +36,6 @@ img {
   grid-template-rows: 100px;
   grid-template-columns: 1fr 1fr 1fr;
 }
+.footer a, a:visited, a:hover, a:active {
+  color: inherit;
+}
