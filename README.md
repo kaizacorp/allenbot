@@ -8,7 +8,8 @@ Currently hosted using GitHub Pages at https://kaizacorp.github.io/allenbot/
     + to show tags
     + 'copy link' button
 
-- refresh page when scrolling-up at top of page on mobile
+- refresh page when scrolling-up at top of page on mobile?
+- link to top of page in footer?
 - infinite scroll [requires changes in backend to implement the standard way]
 
 - implemented in some form in backend, but dependant on [allenxandria-gif-api](https://github.com/kaizacorp/allenxandria-gif-api/) updates/deployment:
