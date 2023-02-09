@@ -8,7 +8,8 @@ Currently hosted using [GitHub Pages](https://kaizacorp.github.io/allenbot/)
     + ~~show tags~~
     + 'copy link' button
     
-- link to top of page in footer when large number of gifs shown?
+- sticky search bar
+- remove header?
 
 
 - implemented in some form in backend, but dependant on [allenxandria-gif-api](https://github.com/kaizacorp/allenxandria-gif-api/) updates/deployment:
