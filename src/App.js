@@ -44,10 +44,6 @@ const Container = styled.div`
   padding-top: 1rem;
 `;
 
-const Title = styled.h1`
-  text-align: center;
-`;
-
 const FILTER_DELAY_IN_MS = 600;
 
 function App() {
@@ -89,7 +85,6 @@ function App() {
       }}
     >
       <Container>
-        <Title>Allenbot Gifs</Title>
         <GifsFilter />
         <GifsGrid />
         <Footer />
