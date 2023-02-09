@@ -9,9 +9,6 @@ Currently hosted using [GitHub Pages](https://kaizacorp.github.io/allenbot/)
     + 'copy link' button
     
 - sticky search bar
-- remove header
-- dark theme
-
 
 - implemented in some form in backend, but dependant on [allenxandria-gif-api](https://github.com/kaizacorp/allenxandria-gif-api/) updates/deployment:
 
