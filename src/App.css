@@ -1,3 +1,7 @@
+body, #root {
+  background-color: #121212 !important;
+}
+
 .gif-grid {
   display: grid;
   grid-gap: 10px;
@@ -22,7 +26,7 @@ img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-    border: 2px solid #fff;
+    /*border: 2px solid #fff;*/
 }
 
 .gif {
@@ -35,6 +39,7 @@ img {
 .no-matching-tags-found {
   grid-column: 1/5;
   text-align: center;
+  color: #fff;
 }
 
 
@@ -43,7 +48,21 @@ img {
   place-items: center;
   grid-template-rows: 100px;
   grid-template-columns: 1fr 1fr 1fr;
+  color: #fff;
 }
 .footer a, a:visited, a:hover, a:active {
   color: inherit;
 }
+
+/*.MuiFormLabel-root {
+  color: #fff;
+}
+
+.MuiOutlinedInput-notchedOutline {
+  color: #fff;
+}
+*/ 
+#fullWidth {
+  color: #fff;
+}
+ 

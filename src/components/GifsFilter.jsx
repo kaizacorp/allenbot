@@ -14,7 +14,17 @@ const GifsFilter = () => {
             sx={{
                 width: '100%',
                 maxWidth: '100%',
-            }}
+                borderColor: 'transparent',
+                '& .MuiFormLabel-root': {
+                    color: '#fff',
+                  },
+                '& .MuiOutlinedInput-notchedOutline': {
+                    borderColor: '#fff',
+                  },
+                '&:hover .MuiOutlinedInput-root .MuiOutlinedInput-notchedOutline': {
+                    borderColor: "#1976d2",
+                }
+        }}
         >
             <TextField fullWidth label={`Search ${total} gifs!`} id="fullWidth"
                 type="text"
