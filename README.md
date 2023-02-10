@@ -8,17 +8,21 @@ Currently hosted using [GitHub Pages](https://kaizacorp.github.io/allenbot/)
     + ~~show tags~~
     + 'copy link' button
     
+- make text for tags visible when image not loaded
 - sticky search bar
+- hover effects for icons in footer
+- placeholder image or spinner for loading gifs
+- staggered 'mosaic' style arrangement of grid
 
-- implemented in some form in backend, but dependant on [allenxandria-gif-api](https://github.com/kaizacorp/allenxandria-gif-api/) updates/deployment:
-
-    + infinite scroll [requires public-facing API]
-    + Paginate:
-        - all gifs (oldest first) 
-        - random gifs for initial page 
-        - option to sort by most recent 
-        - option to sort by most popular 
+features waiting on [allenxandria-gif-api](https://github.com/kaizacorp/allenxandria-gif-api/):
+--
++ infinite scroll [requires deployment of public-facing API]
++ Paginate: [not implemented in API] 
+    - all gifs (oldest first) 
+    - random gifs for initial page 
+    - option to sort by most recent 
+    - option to sort by most popular 
         
-- page listing all gifs by their tags?
+
 
 
