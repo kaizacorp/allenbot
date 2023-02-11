@@ -8,7 +8,7 @@ Currently hosted using [GitHub Pages](https://kaizacorp.github.io/allenbot/)
     + ~~show tags~~
     + 'copy link' button
     
-- make text for tags visible when image not loaded
+- add favicon
 - sticky search bar
 - hover effects for icons in footer
 - placeholder image or spinner for loading gifs
