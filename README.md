@@ -22,6 +22,7 @@ features waiting on [allenxandria-gif-api](https://github.com/kaizacorp/allenxan
     - random gifs for initial page 
     - option to sort by most recent 
     - option to sort by most popular 
++ user 5 star rating system
         
 
 
