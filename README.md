@@ -4,14 +4,10 @@ Currently hosted using [GitHub Pages](https://kaizacorp.github.io/allenbot/)
 
 ## TODO:
 
-- ~~gifs as links to modal:~~
-    + ~~show tags~~
-    + 'copy link' button
-    
-- add favicon
+- 'copy link' button
 - sticky search bar
 - hover effects for icons in footer
-- placeholder image or spinner for loading gifs
+- placeholder image or spinner for loading gifs?
 - staggered 'mosaic' style arrangement of grid
 
 features waiting on [allenxandria-gif-api](https://github.com/kaizacorp/allenxandria-gif-api/):
@@ -22,7 +18,7 @@ features waiting on [allenxandria-gif-api](https://github.com/kaizacorp/allenxan
     - random gifs for initial page 
     - option to sort by most recent 
     - option to sort by most popular 
-+ user 5 star rating system
++ user 5 star rating system in modal
         
 
 
