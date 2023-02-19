@@ -7,6 +7,7 @@ import Box from '@mui/material/Box';
 import Modal from '@mui/material/Modal';
 import Fade from '@mui/material/Fade';
 import Typography from '@mui/material/Typography';
+import ClipboardCopy from './ClipboardCopy';
 
 const style = {
   position: 'absolute',
@@ -59,6 +60,7 @@ export default function GifItem({gif}) {
             <Typography id="transition-modal-description" sx={{ m: 2, }}>
             {gif.tags}
             </Typography>
+            <ClipboardCopy copyText={gif.url} />
           </Box>
         </Fade>
       </Modal>
