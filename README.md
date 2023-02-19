@@ -4,12 +4,12 @@ Currently hosted using [GitHub Pages](https://kaizacorp.github.io/allenbot/)
 
 ## TODO:
 
-- 'copy link' button
 - sticky search bar
 - hover effects for icons in footer
 - placeholder image or spinner for loading gifs?
 - staggered 'mosaic' style arrangement of grid
-- set up testing 
+- set up testing
+- smoother animation for copy feedback
 
 features waiting on [allenxandria-gif-api](https://github.com/kaizacorp/allenxandria-gif-api/):
 --
