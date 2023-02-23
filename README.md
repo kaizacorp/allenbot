@@ -6,6 +6,7 @@ Currently hosted using [GitHub Pages](https://kaizacorp.github.io/allenbot/)
 
 - sticky search bar
 - hover effects for icons in footer
+- click feedback for icons in footer
 - placeholder image or spinner for loading gifs?
 - staggered 'mosaic' style arrangement of grid
 - set up testing
