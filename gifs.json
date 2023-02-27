@@ -8,6 +8,14 @@
         "points": 65
     },
     {
+        "_id": "63b752afb61dd96e27b54bc4",
+        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1060689587351076935/ifitwasntfortheweirdsexytimesstuff.gif",
+        "tags": "if it wasnt for the weird sexy time stuff",
+        "__v": 0,
+        "date": "Sun, 26 Feb 2023 21:47:05 GMT",
+        "points": 30
+    },
+    {
         "_id": "619c340ba78c9ac16874e8d9",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912497979032752158/wegotone.gif",
         "tags": "yes yes we got one",
@@ -44,14 +52,6 @@
         "tags": "sipping tea sip mug",
         "__v": 0,
         "date": "Fri, 24 Feb 2023 03:16:07 GMT",
-        "points": 20
-    },
-    {
-        "_id": "63b752afb61dd96e27b54bc4",
-        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1060689587351076935/ifitwasntfortheweirdsexytimesstuff.gif",
-        "tags": "if it wasnt for the weird sexy time stuff",
-        "__v": 0,
-        "date": "Tue, 14 Feb 2023 00:58:29 GMT",
         "points": 20
     },
     {
@@ -110,6 +110,13 @@
         "points": 12
     },
     {
+        "_id": "619b100db56df83e72b62e0b",
+        "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061357457810657392/allenxandria-i-love-war.gif",
+        "tags": "i love war",
+        "date": "Sun, 26 Feb 2023 21:16:34 GMT",
+        "points": 11
+    },
+    {
         "_id": "619b1068b56df83e72b62e0f",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061358006316572692/allenxandria-buddy-reads-will-be-the-end-of-us-all.gif",
         "tags": "buddy reads will be the end of us all",
@@ -154,6 +161,14 @@
         "points": 10
     },
     {
+        "_id": "628c2dffdd56789396b149fa",
+        "url": "https://cdn.discordapp.com/attachments/797578267322089492/978461835843997756/idontknowfamousfrenchauthors.gif",
+        "tags": "i don't know famous french authors",
+        "__v": 0,
+        "date": "Mon, 27 Feb 2023 14:58:43 GMT",
+        "points": 10
+    },
+    {
         "_id": "631629f08d95ad7abd63508a",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1016361609725235220/hardresetthewholething.gif",
         "tags": "hard reset the whole thing",
@@ -194,18 +209,19 @@
         "points": 8
     },
     {
-        "_id": "619b100db56df83e72b62e0b",
-        "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061357457810657392/allenxandria-i-love-war.gif",
-        "tags": "i love war",
-        "date": "Mon, 06 Feb 2023 19:47:54 GMT",
-        "points": 6
-    },
-    {
         "_id": "619c2f26a78c9ac16874e8b9",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912492697997168700/beesornobees2.gif",
         "tags": "have i not told you about bees or no bees",
         "__v": 0,
         "date": "Sun, 12 Feb 2023 02:26:56 GMT",
+        "points": 6
+    },
+    {
+        "_id": "619c2fb9a78c9ac16874e8c1",
+        "url": "https://cdn.discordapp.com/attachments/834826825943089184/912493313108623432/idontwannadoit.gif",
+        "tags": "i dont wanna do it no no",
+        "__v": 0,
+        "date": "Mon, 27 Feb 2023 14:59:11 GMT",
         "points": 6
     },
     {
@@ -257,6 +273,13 @@
         "points": 6
     },
     {
+        "_id": "619b00acb56df83e72b62ddb",
+        "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061336545249988780/allenxandria-just-dont-do-it.gif",
+        "tags": "do not do it just dont do it",
+        "date": "Mon, 27 Feb 2023 14:58:59 GMT",
+        "points": 5
+    },
+    {
         "_id": "619b08bdb56df83e72b62e00",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061355585829867630/allenxandria-im-the-five-star-strumpet.gif",
         "tags": "im the five star strumpet 5",
@@ -304,6 +327,14 @@
         "tags": "fantasy books are too long",
         "__v": 0,
         "date": "Mon, 13 Feb 2023 15:09:51 GMT",
+        "points": 5
+    },
+    {
+        "_id": "619c33b6a78c9ac16874e8d7",
+        "url": "https://cdn.discordapp.com/attachments/834826825943089184/912497595211997274/thatwasforyou.gif",
+        "tags": "that was for you",
+        "__v": 0,
+        "date": "Mon, 27 Feb 2023 19:26:09 GMT",
         "points": 5
     },
     {
@@ -835,14 +866,6 @@
         "points": 1
     },
     {
-        "_id": "619c2fb9a78c9ac16874e8c1",
-        "url": "https://cdn.discordapp.com/attachments/834826825943089184/912493313108623432/idontwannadoit.gif",
-        "tags": "i dont wanna do it no no",
-        "__v": 0,
-        "date": "Mon, 13 Feb 2023 15:13:10 GMT",
-        "points": 1
-    },
-    {
         "_id": "619c302da78c9ac16874e8c5",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912493835026853908/domicile.gif",
         "tags": "leave my domicile",
@@ -1283,11 +1306,6 @@
         "_id": "619b0053b56df83e72b62dd8",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061335994512719903/allenxandria-hes-got-pincers.gif",
         "tags": "hes got pincers"
-    },
-    {
-        "_id": "619b00acb56df83e72b62ddb",
-        "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061336545249988780/allenxandria-just-dont-do-it.gif",
-        "tags": "do not do it just dont do it"
     },
     {
         "_id": "619b00ceb56df83e72b62ddc",
@@ -1770,12 +1788,6 @@
         "_id": "619c338da78c9ac16874e8d5",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912497450164555846/thatswhatyourmotherread.gif",
         "tags": "thats what your mother read last night",
-        "__v": 0
-    },
-    {
-        "_id": "619c33b6a78c9ac16874e8d7",
-        "url": "https://cdn.discordapp.com/attachments/834826825943089184/912497595211997274/thatwasforyou.gif",
-        "tags": "that was for you",
         "__v": 0
     },
     {
@@ -3108,12 +3120,6 @@
         "_id": "628aef13247edc48afbfa73f",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978119143029092393/ivebeenshakenandshook.gif",
         "tags": "ive been shaken and shook rachel m",
-        "__v": 0
-    },
-    {
-        "_id": "628c2dffdd56789396b149fa",
-        "url": "https://cdn.discordapp.com/attachments/797578267322089492/978461835843997756/idontknowfamousfrenchauthors.gif",
-        "tags": "i don't know famous french authors",
         "__v": 0
     },
     {
