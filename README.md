@@ -6,7 +6,7 @@ Currently hosted using [GitHub Pages](https://kaizacorp.github.io/allenbot/)
 
 - sticky search bar
 - hover effects for icons in footer
-- click feedback for icons in footer
+- click feedback for icons in footer -> checkmark a la Exercism
 - staggered 'mosaic' style arrangement of grid
 - set up testing
 - smoother animation for copy feedback
