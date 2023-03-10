@@ -4,6 +4,7 @@ Currently hosted using [GitHub Pages](https://kaizacorp.github.io/allenbot/)
 
 ## TODO:
 
+- show tags in modal
 - sticky search bar
 - hover effects for icons in footer
 - click feedback for icons in footer -> checkmark a la Exercism
