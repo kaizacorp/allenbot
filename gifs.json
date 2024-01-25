@@ -1,5 +1,17 @@
 [
     {
+        "_id": "65b294a7049061f7aa907be6",
+        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1200119066791252088/sandersondelendusest.gif",
+        "tags": "sanderson delendus est",
+        "__v": 0
+    },
+    {
+        "_id": "65b29470049061f7aa907be4",
+        "url": "https://cdn.discordapp.com/attachments/797578267322089492/1200116125665595472/youcangoaheadandfilethatundercrapthatsnotgonnahappen.gif",
+        "tags": "you can go ahead and file that under crap thats not gonna happen",
+        "__v": 0
+    },
+    {
         "_id": "64dd10652fda52195a9314b9",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1141025869725446144/philipofedan.gif",
         "tags": "philip of edan",
@@ -71,27 +83,33 @@
         "_id": "64dd0f462fda52195a9314a3",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1141025769770979499/trash.gif",
         "tags": "trash",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 22 Jan 2024 01:14:57 GMT",
+        "points": 1
     },
     {
         "_id": "64dd0f382fda52195a9314a1",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1141025769372528700/uffda.gif",
         "tags": "uff da",
         "__v": 0,
-        "date": "Tue, 14 Nov 2023 05:09:29 GMT",
-        "points": 6
+        "date": "Mon, 11 Dec 2023 18:32:07 GMT",
+        "points": 12
     },
     {
         "_id": "64dd0f2b2fda52195a93149f",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1141025768978272276/thisisamanwhohaslostallhope.gif",
         "tags": "this is a man who has lost all hope",
-        "__v": 0
+        "__v": 0,
+        "date": "Sat, 25 Nov 2023 16:09:15 GMT",
+        "points": 2
     },
     {
         "_id": "64dd0f172fda52195a93149d",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1141025768504299530/icantwin.gif",
         "tags": "i cant win",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 18 Dec 2023 04:13:17 GMT",
+        "points": 1
     },
     {
         "_id": "64dd0f062fda52195a93149b",
@@ -174,8 +192,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1134596114276958320/weredefinitelygonnajointhebuzz.gif",
         "tags": "were definitely gonna join the buzz",
         "__v": 0,
-        "date": "Mon, 07 Aug 2023 05:46:41 GMT",
-        "points": 6
+        "date": "Sun, 03 Dec 2023 02:08:18 GMT",
+        "points": 7
     },
     {
         "_id": "64c433ceef7790f5171f94cc",
@@ -230,36 +248,40 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1134595932437106798/wassomeoneinmychair.gif",
         "tags": "was someone in my chair",
         "__v": 0,
-        "date": "Mon, 14 Aug 2023 03:52:39 GMT",
-        "points": 1
+        "date": "Mon, 18 Dec 2023 21:43:06 GMT",
+        "points": 11
     },
     {
         "_id": "64c43192ef7790f5171f94bc",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1134595931933786193/iwillgrindtheirbonestodust.gif",
         "tags": "i will grind their bones to dust",
         "__v": 0,
-        "date": "Mon, 07 Aug 2023 05:43:33 GMT",
-        "points": 1
+        "date": "Mon, 18 Dec 2023 17:54:00 GMT",
+        "points": 21
     },
     {
         "_id": "64c43170ef7790f5171f94ba",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1134595931451437106/gonnabeanepicwhirlwindromance.gif",
         "tags": "gonna be an epic whirlwind romance",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 18 Dec 2023 04:14:43 GMT",
+        "points": 1
     },
     {
         "_id": "64bb4ca92efc0811a828660d",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1132150846147264582/thedreamypiercebrown.gif",
         "tags": "the dreamy pierce brown",
         "__v": 0,
-        "date": "Tue, 10 Oct 2023 03:00:46 GMT",
-        "points": 11
+        "date": "Fri, 12 Jan 2024 21:08:15 GMT",
+        "points": 16
     },
     {
         "_id": "64bb4c932efc0811a828660b",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1132150845602021516/thatsrightgohowlers.gif",
         "tags": "thats right go howlers",
-        "__v": 0
+        "__v": 0,
+        "date": "Sat, 25 Nov 2023 16:10:17 GMT",
+        "points": 1
     },
     {
         "_id": "64bb4c602efc0811a8286609",
@@ -282,8 +304,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1115346746860642438/lehonk.gif",
         "tags": "le honk",
         "__v": 0,
-        "date": "Wed, 16 Aug 2023 16:49:21 GMT",
-        "points": 21
+        "date": "Tue, 16 Jan 2024 22:32:40 GMT",
+        "points": 26
     },
     {
         "_id": "647e4e41f716241188193798",
@@ -338,8 +360,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1115346682155118612/wellactually.gif",
         "tags": "well actually",
         "__v": 0,
-        "date": "Mon, 09 Oct 2023 23:56:21 GMT",
-        "points": 2
+        "date": "Sun, 14 Jan 2024 18:45:25 GMT",
+        "points": 7
     },
     {
         "_id": "647e4d9df716241188193788",
@@ -389,7 +411,9 @@
         "_id": "647d268b2a88c88c6fef4ab7",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1115066629458497566/ifeelmypowergrowing.gif",
         "tags": "i feel my power growing genius",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 18 Dec 2023 19:49:45 GMT",
+        "points": 10
     },
     {
         "_id": "647d26792a88c88c6fef4ab5",
@@ -423,7 +447,9 @@
         "_id": "647d25f32a88c88c6fef4aad",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1115066613075558450/ihavemyopinionsbutillsavethemtheymightbetoobigbrained.gif",
         "tags": "i have my opinions but ill save them they might be too big brained genius",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 18 Dec 2023 04:12:50 GMT",
+        "points": 2
     },
     {
         "_id": "647d25d02a88c88c6fef4aab",
@@ -460,8 +486,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1115066600773664778/justasisuspectedfornerds.gif",
         "tags": "just as i suspected for nerds genius",
         "__v": 0,
-        "date": "Fri, 13 Oct 2023 04:06:30 GMT",
-        "points": 5
+        "date": "Sat, 25 Nov 2023 16:14:25 GMT",
+        "points": 6
     },
     {
         "_id": "647d25432a88c88c6fef4aa1",
@@ -487,13 +513,17 @@
         "_id": "647cd8cb2a88c88c6fef4a9b",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1114984494882099381/thatisonerascallyvarmint.gif",
         "tags": "that is one rascally varmint cowboy",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 18 Dec 2023 21:48:18 GMT",
+        "points": 1
     },
     {
         "_id": "647cd8b42a88c88c6fef4a99",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1114984493737066697/iagreethereposhyboy.gif",
         "tags": "i agree there poshy boy cowboy",
-        "__v": 0
+        "__v": 0,
+        "date": "Wed, 22 Nov 2023 09:39:35 GMT",
+        "points": 1
     },
     {
         "_id": "647cd8902a88c88c6fef4a97",
@@ -532,8 +562,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103782974492782662/giterkev.gif",
         "tags": "git er her kev git her get",
         "__v": 0,
-        "date": "Tue, 25 Jul 2023 18:57:51 GMT",
-        "points": 10
+        "date": "Thu, 18 Jan 2024 20:47:58 GMT",
+        "points": 16
     },
     {
         "_id": "64544fab97b1025df0dd97ae",
@@ -567,7 +597,9 @@
         "_id": "64544f4897b1025df0dd97a6",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103782958759956561/imtheonewhoreadthebook.gif",
         "tags": "im the one who read the book christina",
-        "__v": 0
+        "__v": 0,
+        "date": "Thu, 14 Dec 2023 09:29:56 GMT",
+        "points": 1
     },
     {
         "_id": "64544f3497b1025df0dd97a4",
@@ -624,14 +656,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103767934792388628/imgonnagorethinkmylifechoices.gif",
         "tags": "im gonna go rethink my life choices",
         "__v": 0,
-        "date": "Tue, 10 Oct 2023 03:02:44 GMT",
-        "points": 2
+        "date": "Wed, 15 Nov 2023 06:56:14 GMT",
+        "points": 3
     },
     {
         "_id": "64543006a98aec8a00896018",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103767934200971314/theycouldfeelthreatenedbyme.gif",
         "tags": "they could feel threatened by me",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 18 Dec 2023 18:06:38 GMT",
+        "points": 5
     },
     {
         "_id": "64542feca98aec8a00896016",
@@ -644,8 +678,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103767933194358894/dontforgettosmashthatlikebuttonhitlikeandsubscribemakesuretohitthatbellnotification.gif",
         "tags": "dont forget to smash that like button hit like and subscribe make sure to hit that bell notification",
         "__v": 0,
-        "date": "Sun, 02 Jul 2023 22:48:11 GMT",
-        "points": 5
+        "date": "Thu, 14 Dec 2023 09:29:38 GMT",
+        "points": 6
     },
     {
         "_id": "64542fa8a98aec8a00896012",
@@ -660,8 +694,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103767921517416539/iusedtocould.gif",
         "tags": "i used to could",
         "__v": 0,
-        "date": "Sat, 11 Nov 2023 23:21:22 GMT",
-        "points": 2
+        "date": "Mon, 18 Dec 2023 21:48:59 GMT",
+        "points": 4
     },
     {
         "_id": "64542f87a98aec8a0089600e",
@@ -715,7 +749,9 @@
         "_id": "64542ef5a98aec8a00896000",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103767882413916210/iamnotfilledwithshenanigansasageneralrule.gif",
         "tags": "i am not filled with shenanigans as a general rule",
-        "__v": 0
+        "__v": 0,
+        "date": "Sun, 03 Dec 2023 02:07:54 GMT",
+        "points": 1
     },
     {
         "_id": "64542ecfa98aec8a00895ffe",
@@ -728,8 +764,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103767881281445999/theywillsomehowsummonthem.gif",
         "tags": "they will somehow summon them",
         "__v": 0,
-        "date": "Sun, 27 Aug 2023 16:42:28 GMT",
-        "points": 1
+        "date": "Wed, 24 Jan 2024 14:03:03 GMT",
+        "points": 2
     },
     {
         "_id": "64542e91a98aec8a00895ffa",
@@ -770,8 +806,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103432282024456192/imbeingbullied.gif",
         "tags": "im being bullied",
         "__v": 0,
-        "date": "Tue, 10 Oct 2023 03:03:53 GMT",
-        "points": 1
+        "date": "Wed, 13 Dec 2023 20:45:11 GMT",
+        "points": 6
     },
     {
         "_id": "6452d555c1fe042b8677a9b2",
@@ -808,22 +844,24 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103432266576842752/thererightthere.gif",
         "tags": "there there right there",
         "__v": 0,
-        "date": "Tue, 10 Oct 2023 03:03:30 GMT",
-        "points": 3
+        "date": "Wed, 15 Nov 2023 06:56:49 GMT",
+        "points": 4
     },
     {
         "_id": "6452d4e5c1fe042b8677a9a8",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103432237699059732/imgonnaseeificanremembernahifailed.gif",
         "tags": "im gonna see if i can remember nah i failed",
-        "__v": 0
+        "__v": 0,
+        "date": "Wed, 22 Nov 2023 09:39:49 GMT",
+        "points": 1
     },
     {
         "_id": "6452d4cac1fe042b8677a9a6",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103432237308985424/thisbookwillbefivestarsbytheway.gif",
         "tags": "this book will be five stars by the way",
         "__v": 0,
-        "date": "Mon, 07 Aug 2023 05:43:20 GMT",
-        "points": 3
+        "date": "Wed, 15 Nov 2023 06:55:58 GMT",
+        "points": 4
     },
     {
         "_id": "6452d4adc1fe042b8677a9a4",
@@ -865,7 +903,9 @@
         "_id": "6452d3b4c1fe042b8677a99a",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1103432208171151481/ifyoudontlikeitidontcare.gif",
         "tags": "if you dont like it i dont care",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 18 Dec 2023 04:12:36 GMT",
+        "points": 1
     },
     {
         "_id": "6452d39bc1fe042b8677a998",
@@ -880,8 +920,8 @@
         "url": "https://cdn.discordapp.com/attachments/765282722688008315/1084212423818477698/DB2FD4B6-4C94-4FA4-B6BE-6E385964C6C7.gif",
         "tags": "allen gasp",
         "__v": 0,
-        "date": "Tue, 23 May 2023 03:54:50 GMT",
-        "points": 12
+        "date": "Mon, 04 Dec 2023 16:15:13 GMT",
+        "points": 17
     },
     {
         "_id": "640ce5e14aa172204f1d3548",
@@ -896,16 +936,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1073342589627007007/whocareslifedoesntmatteranyway.gif",
         "tags": "who cares life doesnt even matter anyway zane",
         "__v": 0,
-        "date": "Thu, 09 Feb 2023 20:44:12 GMT",
-        "points": 10
+        "date": "Thu, 14 Dec 2023 09:30:00 GMT",
+        "points": 11
     },
     {
         "_id": "63d81bdf52b34b547af36f70",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1069699293713276958/allensus.gif",
         "tags": "allen sus suspicious squint",
         "__v": 0,
-        "date": "Wed, 02 Aug 2023 02:00:54 GMT",
-        "points": 110
+        "date": "Wed, 15 Nov 2023 06:57:57 GMT",
+        "points": 121
     },
     {
         "_id": "63d81bb652b34b547af36f6e",
@@ -960,8 +1000,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1069699270514573442/itdoesnotsaythatinthescriptures.gif",
         "tags": "it does not say that in the scriptures",
         "__v": 0,
-        "date": "Sat, 05 Aug 2023 03:56:02 GMT",
-        "points": 3
+        "date": "Wed, 15 Nov 2023 06:23:38 GMT",
+        "points": 4
     },
     {
         "_id": "63d81b1552b34b547af36f60",
@@ -1073,7 +1113,9 @@
         "_id": "63c7099a314f6228346b3375",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1065008162601705562/ithinkitsfancypeoplebeingfancy.gif",
         "tags": "i think its fancy people being fancy while fancily stabbing each other with fancy rapiers",
-        "__v": 0
+        "__v": 0,
+        "date": "Sun, 03 Dec 2023 02:07:48 GMT",
+        "points": 2
     },
     {
         "_id": "63c70968314f6228346b3373",
@@ -1102,8 +1144,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1065008149335130235/idontknowwhathisdealis.gif",
         "tags": "i dont know what his deal is",
         "__v": 0,
-        "date": "Wed, 26 Apr 2023 07:27:01 GMT",
-        "points": 1
+        "date": "Mon, 18 Dec 2023 04:16:31 GMT",
+        "points": 2
     },
     {
         "_id": "63c70907314f6228346b336b",
@@ -1118,16 +1160,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1065008136693485628/imaterriblefriend.gif",
         "tags": "im a terrible friend",
         "__v": 0,
-        "date": "Mon, 23 Jan 2023 19:33:25 GMT",
-        "points": 5
+        "date": "Sun, 03 Dec 2023 02:08:06 GMT",
+        "points": 6
     },
     {
         "_id": "63c708d9314f6228346b3367",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1065008136177590372/igottahavemyyesmeanyesandmynomeanno.gif",
         "tags": "i gotta have my yes mean and my no mean no",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 05:31:11 GMT",
-        "points": 3
+        "date": "Sat, 25 Nov 2023 16:11:18 GMT",
+        "points": 4
     },
     {
         "_id": "63c708b9314f6228346b3365",
@@ -1149,15 +1191,17 @@
         "_id": "63c5c4ae314f6228346b3361",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1064653086917922910/whetherilikeitornotiamexcitedtoread.gif",
         "tags": "whether i like it or not i am excited to read",
-        "__v": 0
+        "__v": 0,
+        "date": "Wed, 15 Nov 2023 06:23:23 GMT",
+        "points": 1
     },
     {
         "_id": "63c5c48b314f6228346b335f",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1064653086578200696/ihaveillillomens.gif",
         "tags": "i have ill ill omens",
         "__v": 0,
-        "date": "Wed, 26 Apr 2023 07:27:20 GMT",
-        "points": 2
+        "date": "Wed, 22 Nov 2023 09:40:32 GMT",
+        "points": 3
     },
     {
         "_id": "63c5c478314f6228346b335d",
@@ -1210,16 +1254,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1064653046065414235/whyusefewwordswhenmanywordsdotrick.gif",
         "tags": "why use few words when many words do trick",
         "__v": 0,
-        "date": "Wed, 24 May 2023 03:50:46 GMT",
-        "points": 7
+        "date": "Mon, 11 Dec 2023 04:54:55 GMT",
+        "points": 8
     },
     {
         "_id": "63c5c3b0314f6228346b334f",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1064653045641781358/mypredictionwasincorrect.gif",
         "tags": "my prediction was incorrect",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 05:26:03 GMT",
-        "points": 1
+        "date": "Wed, 24 Jan 2024 05:25:43 GMT",
+        "points": 2
     },
     {
         "_id": "63c5c38f314f6228346b334d",
@@ -1306,8 +1350,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1060689588278018180/soletthatletyoudecideifmyopinionisrealornot.gif",
         "tags": "so let that let you decide if my opinion is real or not",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:28:35 GMT",
-        "points": 1
+        "date": "Wed, 22 Nov 2023 09:40:15 GMT",
+        "points": 2
     },
     {
         "_id": "63b752c6b61dd96e27b54bc6",
@@ -1384,16 +1428,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1060644162506076290/butilikethisregime.gif",
         "tags": "but i like this regime",
         "__v": 0,
-        "date": "Mon, 22 May 2023 20:14:20 GMT",
-        "points": 1
+        "date": "Wed, 22 Nov 2023 09:39:19 GMT",
+        "points": 2
     },
     {
         "_id": "63b72963b61dd96e27b54bb2",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1060644162048892989/imrootingforthebadguys.gif",
         "tags": "im rooting for the bad guys",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:18:42 GMT",
-        "points": 1
+        "date": "Thu, 14 Dec 2023 09:29:41 GMT",
+        "points": 2
     },
     {
         "_id": "63b7294ab61dd96e27b54bb0",
@@ -1424,8 +1468,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1060644130604191894/itsboring.gif",
         "tags": "its boring",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 18:59:02 GMT",
-        "points": 6
+        "date": "Wed, 22 Nov 2023 09:39:43 GMT",
+        "points": 7
     },
     {
         "_id": "63b72893b61dd96e27b54ba8",
@@ -1572,8 +1616,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1057364734434889828/sippingtea.gif",
         "tags": "sipping tea sip mug",
         "__v": 0,
-        "date": "Sat, 29 Jul 2023 21:19:14 GMT",
-        "points": 35
+        "date": "Mon, 11 Dec 2023 04:55:56 GMT",
+        "points": 36
     },
     {
         "_id": "63ab954e3d36c2d1b008ea07",
@@ -1596,8 +1640,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1057364733373730856/igotskillsworthmills.gif",
         "tags": "i got skills worth mills",
         "__v": 0,
-        "date": "Sat, 06 May 2023 04:09:23 GMT",
-        "points": 1
+        "date": "Wed, 24 Jan 2024 14:01:50 GMT",
+        "points": 2
     },
     {
         "_id": "63ab94fc3d36c2d1b008ea01",
@@ -1612,8 +1656,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1057364712154746880/thatsunkind.gif",
         "tags": "thats unkind",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 19:29:57 GMT",
-        "points": 3
+        "date": "Wed, 15 Nov 2023 06:56:56 GMT",
+        "points": 4
     },
     {
         "_id": "63ab94d33d36c2d1b008e9fd",
@@ -1660,8 +1704,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1057364691766214766/thatsapunishmentforyall.gif",
         "tags": "thats a punishment for yall",
         "__v": 0,
-        "date": "Sat, 10 Jun 2023 23:36:53 GMT",
-        "points": 2
+        "date": "Mon, 18 Dec 2023 04:18:06 GMT",
+        "points": 3
     },
     {
         "_id": "63ab944c3d36c2d1b008e9f1",
@@ -1692,8 +1736,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1057364667955171420/wasthataninsult.gif",
         "tags": "was that an insult",
         "__v": 0,
-        "date": "Sun, 27 Aug 2023 16:50:09 GMT",
-        "points": 3
+        "date": "Wed, 24 Jan 2024 14:02:23 GMT",
+        "points": 4
     },
     {
         "_id": "63ab93e33d36c2d1b008e9e9",
@@ -1714,16 +1758,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1057364659864338593/thishasnomeaningtomeinthisplaceanymore.gif",
         "tags": "time has no meaning to me in this place anymore",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 05:24:22 GMT",
-        "points": 1
+        "date": "Fri, 24 Nov 2023 15:54:42 GMT",
+        "points": 2
     },
     {
         "_id": "63ab938e3d36c2d1b008e9e3",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1057364659470094499/bringmemyshoe.gif",
         "tags": "bring me my shoe",
         "__v": 0,
-        "date": "Mon, 05 Jun 2023 00:40:50 GMT",
-        "points": 6
+        "date": "Sat, 13 Jan 2024 18:16:02 GMT",
+        "points": 11
     },
     {
         "_id": "63ab93793d36c2d1b008e9e1",
@@ -1836,16 +1880,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1051908403729027152/youguysgotpunkd.gif",
         "tags": "you guys got punkd punked",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 05:30:08 GMT",
-        "points": 7
+        "date": "Sat, 25 Nov 2023 16:12:55 GMT",
+        "points": 8
     },
     {
         "_id": "63976a716eb3e85b70d81d48",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1051908403225706516/thatssuperniceforyourbrokenfriend.gif",
         "tags": "thats super nice for your broken friend",
         "__v": 0,
-        "date": "Tue, 28 Feb 2023 01:59:05 GMT",
-        "points": 1
+        "date": "Fri, 08 Dec 2023 03:02:18 GMT",
+        "points": 6
     },
     {
         "_id": "63976a5a6eb3e85b70d81d46",
@@ -1860,22 +1904,24 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1051908402416209970/whenthatbookcomesoutifyalldonotincludeme.gif",
         "tags": "when that book comes out if yall dont include me",
         "__v": 0,
-        "date": "Wed, 24 May 2023 03:48:06 GMT",
-        "points": 2
+        "date": "Mon, 11 Dec 2023 04:55:17 GMT",
+        "points": 3
     },
     {
         "_id": "63976a236eb3e85b70d81d42",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1051908402038718484/ihadatransformativeexperience.gif",
         "tags": "i had a transformative experience",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 19:18:52 GMT",
-        "points": 1
+        "date": "Mon, 04 Dec 2023 01:59:47 GMT",
+        "points": 6
     },
     {
         "_id": "63976a0c6eb3e85b70d81d40",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1051908401610891274/ineededtothrowmyselfinfrontoftraffic.gif",
         "tags": "i needed to throw myself in front of traffic",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 11 Dec 2023 04:55:34 GMT",
+        "points": 1
     },
     {
         "_id": "639769f46eb3e85b70d81d3e",
@@ -1998,8 +2044,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1046788559039897651/thisisthegreatestcrime.gif",
         "tags": "this is the greatest crime",
         "__v": 0,
-        "date": "Sat, 23 Sep 2023 01:27:17 GMT",
-        "points": 3
+        "date": "Wed, 15 Nov 2023 06:56:03 GMT",
+        "points": 4
     },
     {
         "_id": "6384de358879b9afa25fd5d6",
@@ -2030,8 +2076,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1046788555944513576/thatswhatatbrmeans.gif",
         "tags": "thats what a tbr means",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 18:45:47 GMT",
-        "points": 1
+        "date": "Mon, 18 Dec 2023 04:14:15 GMT",
+        "points": 2
     },
     {
         "_id": "63840ddc8879b9afa25fd5cc",
@@ -2086,8 +2132,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1027981443130986577/crankuptheeviepropagandamachine.gif",
         "tags": "crank up the evie propaganda machine",
         "__v": 0,
-        "date": "Sat, 23 Sep 2023 01:27:00 GMT",
-        "points": 38
+        "date": "Thu, 14 Dec 2023 09:29:32 GMT",
+        "points": 39
     },
     {
         "_id": "631a1e67762c65ca9893adfe",
@@ -2126,8 +2172,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1017448013930709063/stopstoppleasestop.gif",
         "tags": "stop stop please stop",
         "__v": 0,
-        "date": "Sat, 05 Aug 2023 03:56:13 GMT",
-        "points": 3
+        "date": "Tue, 09 Jan 2024 20:37:55 GMT",
+        "points": 8
     },
     {
         "_id": "631a155f27b16c42dbcd3ae6",
@@ -2142,8 +2188,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1017448003566571620/whatanidiot.gif",
         "tags": "what an idiot",
         "__v": 0,
-        "date": "Wed, 26 Apr 2023 07:26:30 GMT",
-        "points": 1
+        "date": "Wed, 15 Nov 2023 06:23:41 GMT",
+        "points": 2
     },
     {
         "_id": "631a152927b16c42dbcd3ae2",
@@ -2236,16 +2282,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1016361589848428625/itsgonnabefine.gif",
         "tags": "its gonna be fine",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 05:33:07 GMT",
-        "points": 2
+        "date": "Wed, 15 Nov 2023 06:23:13 GMT",
+        "points": 3
     },
     {
         "_id": "6316297d8d95ad7abd635080",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1016361557648744478/imjustgonnatrystuff.gif",
         "tags": "im just gonna try stuff",
         "__v": 0,
-        "date": "Tue, 10 Oct 2023 03:03:16 GMT",
-        "points": 2
+        "date": "Thu, 14 Dec 2023 09:29:34 GMT",
+        "points": 3
     },
     {
         "_id": "6316296a8d95ad7abd63507e",
@@ -2300,8 +2346,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/1016361525117730907/iwelcomemyselfback.gif",
         "tags": "i welcome myself back",
         "__v": 0,
-        "date": "Mon, 09 Oct 2023 23:57:12 GMT",
-        "points": 18
+        "date": "Wed, 22 Nov 2023 09:39:28 GMT",
+        "points": 19
     },
     {
         "_id": "628d03d863cb676a8a870dfe",
@@ -2340,8 +2386,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978677786627682324/imhavingaroughtimeofit.gif",
         "tags": "im having a rough time of it",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:19:30 GMT",
-        "points": 3
+        "date": "Wed, 15 Nov 2023 06:56:44 GMT",
+        "points": 4
     },
     {
         "_id": "628c2e52dd56789396b14a02",
@@ -2396,8 +2442,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978461820710961242/becauseiapparentlydontknowanything.gif",
         "tags": "because I apparently don't know anything",
         "__v": 0,
-        "date": "Sun, 18 Jun 2023 15:06:46 GMT",
-        "points": 3
+        "date": "Wed, 15 Nov 2023 06:23:31 GMT",
+        "points": 4
     },
     {
         "_id": "628aef66247edc48afbfa745",
@@ -2450,16 +2496,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978119126159618148/thatsnotmyfault.gif",
         "tags": "thats not my fault rachel m",
         "__v": 0,
-        "date": "Tue, 14 Nov 2023 07:16:57 GMT",
-        "points": 9
+        "date": "Wed, 15 Nov 2023 06:57:02 GMT",
+        "points": 10
     },
     {
         "_id": "628aeec9247edc48afbfa737",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978119125765349376/ididntknow.gif",
         "tags": "i didnt know rachel m",
         "__v": 0,
-        "date": "Sun, 10 Sep 2023 15:17:03 GMT",
-        "points": 13
+        "date": "Mon, 15 Jan 2024 16:47:26 GMT",
+        "points": 18
     },
     {
         "_id": "628aeeb3247edc48afbfa735",
@@ -2512,8 +2558,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978108092187279440/ihateyou.gif",
         "tags": "i hate you rachel m",
         "__v": 0,
-        "date": "Mon, 05 Jun 2023 00:40:39 GMT",
-        "points": 1
+        "date": "Wed, 24 Jan 2024 14:03:18 GMT",
+        "points": 3
     },
     {
         "_id": "628aebab965e59586d01c2cc",
@@ -2536,8 +2582,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978108063607296000/imsoupsetatthelackofmonarchy.gif",
         "tags": "im so upset at the lack of monarchy rachel j",
         "__v": 0,
-        "date": "Tue, 22 Aug 2023 04:12:00 GMT",
-        "points": 1
+        "date": "Sun, 03 Dec 2023 02:08:38 GMT",
+        "points": 2
     },
     {
         "_id": "628aeb6d965e59586d01c2c6",
@@ -2568,8 +2614,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978108036218490880/lchiam.gif",
         "tags": "l'chiam lchiam",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 18:45:41 GMT",
-        "points": 1
+        "date": "Wed, 22 Nov 2023 09:39:59 GMT",
+        "points": 3
     },
     {
         "_id": "628aeb03965e59586d01c2be",
@@ -2592,8 +2638,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978108014647205908/imatyrant.gif",
         "tags": "im a tyrant",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:16:35 GMT",
-        "points": 1
+        "date": "Wed, 22 Nov 2023 09:39:53 GMT",
+        "points": 3
     },
     {
         "_id": "628aeac7965e59586d01c2b8",
@@ -2606,8 +2652,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978108005474271322/ijustsaidiwasrootingforyou.gif",
         "tags": "i just said i was rooting for you",
         "__v": 0,
-        "date": "Mon, 05 Jun 2023 00:38:22 GMT",
-        "points": 1
+        "date": "Sat, 25 Nov 2023 16:09:49 GMT",
+        "points": 2
     },
     {
         "_id": "628aea99965e59586d01c2b4",
@@ -2622,8 +2668,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/978107997282795550/soyouarewillingtoadmitherethatyoureacoward.gif",
         "tags": "so you are willing to admit here that youre a coward",
         "__v": 0,
-        "date": "Sun, 27 Aug 2023 16:45:30 GMT",
-        "points": 2
+        "date": "Wed, 24 Jan 2024 14:04:06 GMT",
+        "points": 3
     },
     {
         "_id": "628992ba85fcd591f2cc6717",
@@ -2662,16 +2708,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/977705323286630460/noallen.gif",
         "tags": "jimmy no allen",
         "__v": 0,
-        "date": "Mon, 09 Oct 2023 23:56:28 GMT",
-        "points": 8
+        "date": "Mon, 18 Dec 2023 04:13:53 GMT",
+        "points": 9
     },
     {
         "_id": "6289923d85fcd591f2cc670d",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/977705322959478834/itsgonnafallfartherdownmylist.gif",
         "tags": "its gonna fall farther down my list",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:26:09 GMT",
-        "points": 1
+        "date": "Thu, 14 Dec 2023 09:29:53 GMT",
+        "points": 2
     },
     {
         "_id": "6289922585fcd591f2cc670b",
@@ -2694,16 +2740,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/973592390378086440/youtotallyshould.gif",
         "tags": "you totally should",
         "__v": 0,
-        "date": "Tue, 10 Oct 2023 03:02:26 GMT",
-        "points": 3
+        "date": "Wed, 15 Nov 2023 06:56:35 GMT",
+        "points": 4
     },
     {
         "_id": "627a87e60fed3adb5657e0fe",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/973592382710882384/thisisminevow.gif",
         "tags": "this is mine vow",
         "__v": 0,
-        "date": "Mon, 09 Oct 2023 23:57:03 GMT",
-        "points": 2
+        "date": "Sun, 26 Nov 2023 19:52:40 GMT",
+        "points": 4
     },
     {
         "_id": "627a87d00fed3adb5657e0fc",
@@ -2734,16 +2780,16 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/973592363597430784/wewreckedem.gif",
         "tags": "we wrecked em",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 18:46:02 GMT",
-        "points": 1
+        "date": "Tue, 19 Dec 2023 23:25:50 GMT",
+        "points": 2
     },
     {
         "_id": "627a874d0fed3adb5657e0f4",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/973592363270295572/itwastrulyatransformativeexperience.gif",
         "tags": "it was truly a transformative experience",
         "__v": 0,
-        "date": "Wed, 03 May 2023 05:15:00 GMT",
-        "points": 2
+        "date": "Wed, 15 Nov 2023 06:23:35 GMT",
+        "points": 3
     },
     {
         "_id": "6256f46417d1be684d14d7b9",
@@ -2764,8 +2810,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/963829169182101564/theresnopurposeatall.gif",
         "tags": "theres no purpose at all",
         "__v": 0,
-        "date": "Thu, 31 Aug 2023 19:58:49 GMT",
-        "points": 4
+        "date": "Wed, 15 Nov 2023 06:23:19 GMT",
+        "points": 5
     },
     {
         "_id": "6256f42417d1be684d14d7b3",
@@ -2818,8 +2864,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/963829145039687790/itsjustnotinmyskillset.gif",
         "tags": "its just not in my skillset skill set",
         "__v": 0,
-        "date": "Mon, 09 Oct 2023 23:56:54 GMT",
-        "points": 3
+        "date": "Wed, 22 Nov 2023 09:39:22 GMT",
+        "points": 4
     },
     {
         "_id": "6237d03c96492a7ddbc5c51e",
@@ -2840,8 +2886,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/954891561617981440/igottacalmdown.gif",
         "tags": "i gotta calm down",
         "__v": 0,
-        "date": "Fri, 22 Sep 2023 22:28:05 GMT",
-        "points": 1
+        "date": "Wed, 22 Nov 2023 09:39:18 GMT",
+        "points": 2
     },
     {
         "_id": "62368169a886c1292c9fdf29",
@@ -2915,15 +2961,17 @@
         "_id": "623680b4a886c1292c9fdf17",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/954891499655548978/yourerightmybad.gif",
         "tags": "youre right my bad",
-        "__v": 0
+        "__v": 0,
+        "date": "Sun, 26 Nov 2023 07:39:30 GMT",
+        "points": 1
     },
     {
         "_id": "623553fc9e9320bd449f63f8",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/954586663949062184/hopingforthetechnicality.gif",
         "tags": "were hoping for the technicality",
         "__v": 0,
-        "date": "Tue, 04 Jul 2023 16:02:05 GMT",
-        "points": 1
+        "date": "Sun, 26 Nov 2023 19:51:42 GMT",
+        "points": 2
     },
     {
         "_id": "623553e09e9320bd449f63f6",
@@ -2990,8 +3038,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/954586619581702204/thebardisback.gif",
         "tags": "the bard is back",
         "__v": 0,
-        "date": "Tue, 10 Oct 2023 03:03:23 GMT",
-        "points": 4
+        "date": "Wed, 15 Nov 2023 06:56:01 GMT",
+        "points": 5
     },
     {
         "_id": "623552ff9e9320bd449f63e4",
@@ -3022,8 +3070,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/955250864459747438/lessthanwunderbar.gif",
         "tags": "less than wunderbar",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:19:33 GMT",
-        "points": 1
+        "date": "Sun, 03 Dec 2023 02:08:04 GMT",
+        "points": 2
     },
     {
         "_id": "623552a19e9320bd449f63dc",
@@ -3046,8 +3094,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/954586595682566225/lookatthis.gif",
         "tags": "look at this",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:20:19 GMT",
-        "points": 2
+        "date": "Mon, 11 Dec 2023 04:49:39 GMT",
+        "points": 3
     },
     {
         "_id": "623552499e9320bd449f63d6",
@@ -3070,8 +3118,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/949103665124372591/FFF08686-40A3-4A23-AD33-D7CDB298BBAD.gif",
         "tags": "thank you i hate you klaus",
         "__v": 0,
-        "date": "Sun, 18 Jun 2023 15:11:23 GMT",
-        "points": 2
+        "date": "Tue, 09 Jan 2024 20:23:44 GMT",
+        "points": 7
     },
     {
         "_id": "62216047261d11989b43e882",
@@ -3086,8 +3134,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/949103504549613588/BAE8D87C-96E7-4F5D-A3F5-88595F7FEA3E.gif",
         "tags": "oh my god what the hell klaus",
         "__v": 0,
-        "date": "Wed, 24 May 2023 03:47:41 GMT",
-        "points": 1
+        "date": "Wed, 22 Nov 2023 09:39:46 GMT",
+        "points": 2
     },
     {
         "_id": "62215fff261d11989b43e87e",
@@ -3134,8 +3182,8 @@
         "url": "https://media.discordapp.net/attachments/765282722688008315/829466532530487306/image0.gif",
         "tags": "i love katrina klaus",
         "__v": 0,
-        "date": "Sun, 25 Jun 2023 15:55:52 GMT",
-        "points": 5
+        "date": "Sun, 03 Dec 2023 02:08:40 GMT",
+        "points": 6
     },
     {
         "_id": "61b21e360c681ddd0dbadb1d",
@@ -3164,16 +3212,16 @@
         "url": "https://media.discordapp.net/attachments/797578267322089492/909196302984831006/philiplaugh.gif",
         "tags": "dr philip chase laugh",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:35:12 GMT",
-        "points": 7
+        "date": "Thu, 14 Dec 2023 09:29:36 GMT",
+        "points": 8
     },
     {
         "_id": "619dc994433ff960cbaece66",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912932948687331358/iwasliftingweights.gif",
         "tags": "i was lifting weights jimmy nutts",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:25:50 GMT",
-        "points": 3
+        "date": "Sun, 03 Dec 2023 02:08:43 GMT",
+        "points": 4
     },
     {
         "_id": "619dc973433ff960cbaece64",
@@ -3212,8 +3260,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063228741175758898/allenxandria-i-do-exaggerate-a-lot.gif",
         "tags": "i do exaggerate a lot",
         "__v": 0,
-        "date": "Fri, 27 Jan 2023 23:51:48 GMT",
-        "points": 1
+        "date": "Wed, 15 Nov 2023 06:56:26 GMT",
+        "points": 2
     },
     {
         "_id": "619c9e62a78c9ac16874ea3d",
@@ -3227,7 +3275,9 @@
         "_id": "619c9e45a78c9ac16874ea3b",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063225772682260571/allenxandria-thinking.gif",
         "tags": "hmm thinking",
-        "__v": 0
+        "__v": 0,
+        "date": "Wed, 22 Nov 2023 09:42:02 GMT",
+        "points": 11
     },
     {
         "_id": "619c9e31a78c9ac16874ea39",
@@ -3273,27 +3323,33 @@
         "_id": "619c9d72a78c9ac16874ea2f",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063222803333124157/allenxandria-he-grinned-wickedly.gif",
         "tags": "he grinned wickedly",
-        "__v": 0
+        "__v": 0,
+        "date": "Sun, 03 Dec 2023 02:08:32 GMT",
+        "points": 12
     },
     {
         "_id": "619c9d59a78c9ac16874ea2d",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063223798188478535/allenxandria.gif",
         "tags": "he was so confident",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 18 Dec 2023 04:15:12 GMT",
+        "points": 1
     },
     {
         "_id": "619c9d47a78c9ac16874ea2b",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063221681075793960/allenxandria-must-we.gif",
         "tags": "must we",
-        "__v": 0
+        "__v": 0,
+        "date": "Sun, 26 Nov 2023 19:53:49 GMT",
+        "points": 1
     },
     {
         "_id": "619c9d03a78c9ac16874ea29",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1063224082893635684/allenxandria-alright-norton.gif",
         "tags": "alright norton",
         "__v": 0,
-        "date": "Mon, 05 Jun 2023 00:39:56 GMT",
-        "points": 4
+        "date": "Mon, 18 Dec 2023 21:48:42 GMT",
+        "points": 6
     },
     {
         "_id": "619c9cf1a78c9ac16874ea27",
@@ -3452,8 +3508,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912606282022801459/guesswhatitstimefor.gif",
         "tags": "guess what its time for! christina",
         "__v": 0,
-        "date": "Tue, 10 Oct 2023 03:01:42 GMT",
-        "points": 2
+        "date": "Wed, 15 Nov 2023 06:55:52 GMT",
+        "points": 3
     },
     {
         "_id": "619c98c4a78c9ac16874e9ff",
@@ -3467,7 +3523,9 @@
         "_id": "619c98afa78c9ac16874e9fd",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912606073532334100/whathaveidone.gif",
         "tags": "what have i done",
-        "__v": 0
+        "__v": 0,
+        "date": "Mon, 18 Dec 2023 21:46:56 GMT",
+        "points": 3
     },
     {
         "_id": "619c9897a78c9ac16874e9fb",
@@ -3528,16 +3586,16 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912604564333686834/tripleboosh.gif",
         "tags": "triple boosh",
         "__v": 0,
-        "date": "Wed, 24 May 2023 03:46:52 GMT",
-        "points": 2
+        "date": "Wed, 15 Nov 2023 06:56:23 GMT",
+        "points": 3
     },
     {
         "_id": "619c971fa78c9ac16874e9eb",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912604345890115594/tomesandtexts.gif",
         "tags": "i have acquired many new tomes and texts",
         "__v": 0,
-        "date": "Sun, 27 Aug 2023 16:43:42 GMT",
-        "points": 2
+        "date": "Wed, 22 Nov 2023 09:40:09 GMT",
+        "points": 3
     },
     {
         "_id": "619c96f8a78c9ac16874e9e9",
@@ -3620,8 +3678,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912602712607170590/nobodycares.gif",
         "tags": "which nobody cares",
         "__v": 0,
-        "date": "Mon, 05 Jun 2023 18:34:31 GMT",
-        "points": 6
+        "date": "Mon, 22 Jan 2024 00:34:31 GMT",
+        "points": 11
     },
     {
         "_id": "619c9572a78c9ac16874e9d3",
@@ -3644,8 +3702,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912602203489988608/nicelydone.gif",
         "tags": "nicely done",
         "__v": 0,
-        "date": "Wed, 16 Aug 2023 16:50:18 GMT",
-        "points": 2
+        "date": "Mon, 22 Jan 2024 01:15:21 GMT",
+        "points": 3
     },
     {
         "_id": "619c94fca78c9ac16874e9cd",
@@ -3698,8 +3756,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912521025030328370/theyhateit.gif",
         "tags": "they hate it",
         "__v": 0,
-        "date": "Wed, 24 May 2023 03:50:13 GMT",
-        "points": 2
+        "date": "Sun, 03 Dec 2023 02:08:23 GMT",
+        "points": 3
     },
     {
         "_id": "619c495ca78c9ac16874e9bf",
@@ -3714,16 +3772,16 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912520822055383060/stoppedcaring.gif",
         "tags": "i just stopped caring",
         "__v": 0,
-        "date": "Tue, 23 May 2023 03:54:14 GMT",
-        "points": 1
+        "date": "Sat, 02 Dec 2023 02:18:04 GMT",
+        "points": 3
     },
     {
         "_id": "619c4930a78c9ac16874e9bb",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912520700768706570/superexciting.gif",
         "tags": "its gonna be super super super exciting",
         "__v": 0,
-        "date": "Tue, 14 Nov 2023 07:16:44 GMT",
-        "points": 4
+        "date": "Mon, 18 Dec 2023 17:41:27 GMT",
+        "points": 5
     },
     {
         "_id": "619c4915a78c9ac16874e9b9",
@@ -3738,8 +3796,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912520360883286036/strangers.gif",
         "tags": "i dont like playing online with strangers",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:15:51 GMT",
-        "points": 1
+        "date": "Sun, 03 Dec 2023 02:08:27 GMT",
+        "points": 2
     },
     {
         "_id": "619c48c8a78c9ac16874e9b5",
@@ -3818,8 +3876,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912519191326777364/justlikeido.gif",
         "tags": "just like i do",
         "__v": 0,
-        "date": "Tue, 10 Oct 2023 03:02:14 GMT",
-        "points": 3
+        "date": "Thu, 14 Dec 2023 09:29:26 GMT",
+        "points": 5
     },
     {
         "_id": "619c47b0a78c9ac16874e9a1",
@@ -3850,16 +3908,16 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912518738560040970/nice.gif",
         "tags": "nice",
         "__v": 0,
-        "date": "Wed, 09 Aug 2023 06:38:36 GMT",
-        "points": 7
+        "date": "Sun, 03 Dec 2023 02:08:30 GMT",
+        "points": 8
     },
     {
         "_id": "619c473fa78c9ac16874e999",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912518602677186600/theentirething.gif",
         "tags": "literally the entire thing word for word thats no joke",
         "__v": 0,
-        "date": "Wed, 26 Apr 2023 07:26:55 GMT",
-        "points": 6
+        "date": "Mon, 18 Dec 2023 04:15:32 GMT",
+        "points": 7
     },
     {
         "_id": "619c4722a78c9ac16874e997",
@@ -3874,8 +3932,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912518352461791252/makeyourchoice.gif",
         "tags": "go ahead make your choice",
         "__v": 0,
-        "date": "Sat, 23 Sep 2023 01:26:53 GMT",
-        "points": 2
+        "date": "Wed, 24 Jan 2024 14:05:39 GMT",
+        "points": 3
     },
     {
         "_id": "619c46e2a78c9ac16874e993",
@@ -3922,8 +3980,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912514339376873522/ican.gif",
         "tags": "i can im not going to but i can",
         "__v": 0,
-        "date": "Mon, 22 May 2023 20:11:01 GMT",
-        "points": 2
+        "date": "Wed, 24 Jan 2024 14:02:45 GMT",
+        "points": 3
     },
     {
         "_id": "619c432aa78c9ac16874e987",
@@ -3984,8 +4042,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912513317183033384/loveyouguys.gif",
         "tags": "love you guys christina",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 19:29:46 GMT",
-        "points": 1
+        "date": "Sun, 03 Dec 2023 02:08:12 GMT",
+        "points": 2
     },
     {
         "_id": "619c4009a78c9ac16874e977",
@@ -3998,8 +4056,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912510768690380810/thepace.gif",
         "tags": "the pace is just amazing",
         "__v": 0,
-        "date": "Sat, 06 May 2023 04:09:17 GMT",
-        "points": 3
+        "date": "Mon, 18 Dec 2023 04:16:09 GMT",
+        "points": 5
     },
     {
         "_id": "619c3fd5a78c9ac16874e973",
@@ -4046,16 +4104,16 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912510101833785425/ohmycriminy.gif",
         "tags": "oh my criminy",
         "__v": 0,
-        "date": "Sat, 05 Aug 2023 03:56:19 GMT",
-        "points": 2
+        "date": "Wed, 22 Nov 2023 09:39:57 GMT",
+        "points": 3
     },
     {
         "_id": "619c3f38a78c9ac16874e967",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912510010381197393/thatisnotfair.gif",
         "tags": "that is not fair",
         "__v": 0,
-        "date": "Wed, 09 Aug 2023 06:38:48 GMT",
-        "points": 3
+        "date": "Mon, 18 Dec 2023 21:48:05 GMT",
+        "points": 4
     },
     {
         "_id": "619c3f26a78c9ac16874e965",
@@ -4176,8 +4234,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912508103164039178/inquiringminds.gif",
         "tags": "inquiring minds want to know",
         "__v": 0,
-        "date": "Sat, 11 Nov 2023 16:49:29 GMT",
-        "points": 2
+        "date": "Thu, 14 Dec 2023 09:29:44 GMT",
+        "points": 3
     },
     {
         "_id": "619c3d5da78c9ac16874e945",
@@ -4192,8 +4250,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912507914638479420/lesscool.gif",
         "tags": "which sounds significantly less cool",
         "__v": 0,
-        "date": "Tue, 10 Oct 2023 03:00:27 GMT",
-        "points": 5
+        "date": "Wed, 15 Nov 2023 06:23:44 GMT",
+        "points": 6
     },
     {
         "_id": "619c3d30a78c9ac16874e941",
@@ -4238,8 +4296,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912506831941812274/100percenttrue.gif",
         "tags": "thats all true that's all 100 percent 100% true",
         "__v": 0,
-        "date": "Wed, 24 May 2023 03:47:20 GMT",
-        "points": 16
+        "date": "Mon, 27 Nov 2023 01:37:10 GMT",
+        "points": 21
     },
     {
         "_id": "619c3c25a78c9ac16874e935",
@@ -4261,23 +4319,25 @@
         "_id": "619c3bd3a78c9ac16874e931",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912506325378957312/grubbyhands.gif",
         "tags": "you better get your grubby hands away from my pizza",
-        "__v": 0
+        "__v": 0,
+        "date": "Wed, 15 Nov 2023 06:23:50 GMT",
+        "points": 1
     },
     {
         "_id": "619c3bb2a78c9ac16874e92f",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912506219208536094/elvis.gif",
         "tags": "thank you thank you very much",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:20:08 GMT",
-        "points": 3
+        "date": "Sun, 26 Nov 2023 07:40:16 GMT",
+        "points": 4
     },
     {
         "_id": "619c3b9ca78c9ac16874e92d",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912506140875714560/andimlikewhat.gif",
         "tags": "and im like what",
         "__v": 0,
-        "date": "Sat, 05 Aug 2023 03:55:11 GMT",
-        "points": 2
+        "date": "Mon, 18 Dec 2023 04:17:34 GMT",
+        "points": 3
     },
     {
         "_id": "619c3b84a78c9ac16874e92b",
@@ -4300,14 +4360,16 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912505652432224276/sleeperhit.gif",
         "tags": "its the sleeper hit",
         "__v": 0,
-        "date": "Sun, 18 Jun 2023 15:05:56 GMT",
-        "points": 3
+        "date": "Mon, 18 Dec 2023 21:49:58 GMT",
+        "points": 4
     },
     {
         "_id": "619c3b03a78c9ac16874e925",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912505491949781062/immediately.gif",
         "tags": "immediately",
-        "__v": 0
+        "__v": 0,
+        "date": "Wed, 15 Nov 2023 06:56:30 GMT",
+        "points": 1
     },
     {
         "_id": "619c3aeaa78c9ac16874e923",
@@ -4320,8 +4382,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912505250651459594/gonnabeticked.gif",
         "tags": "if i dont get to see orangutans im gonna be ticked",
         "__v": 0,
-        "date": "Mon, 11 Sep 2023 19:18:57 GMT",
-        "points": 3
+        "date": "Wed, 24 Jan 2024 14:06:16 GMT",
+        "points": 4
     },
     {
         "_id": "619c3ab4a78c9ac16874e91f",
@@ -4342,16 +4404,16 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912504824166236190/wellactually.gif",
         "tags": "well actually",
         "__v": 0,
-        "date": "Mon, 14 Aug 2023 04:16:22 GMT",
-        "points": 7
+        "date": "Sun, 14 Jan 2024 18:45:39 GMT",
+        "points": 17
     },
     {
         "_id": "619c3a6ea78c9ac16874e919",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912504785708679228/well.gif",
         "tags": "well well!",
         "__v": 0,
-        "date": "Tue, 07 Feb 2023 22:20:48 GMT",
-        "points": 5
+        "date": "Thu, 16 Nov 2023 00:32:59 GMT",
+        "points": 10
     },
     {
         "_id": "619c3a33a78c9ac16874e917",
@@ -4398,8 +4460,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912503995363360808/stopthemadness.gif",
         "tags": "what stop the madness",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:24:03 GMT",
-        "points": 2
+        "date": "Mon, 18 Dec 2023 04:13:36 GMT",
+        "points": 4
     },
     {
         "_id": "619c3988a78c9ac16874e90b",
@@ -4446,8 +4508,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912503203587817572/thatsano.gif",
         "tags": "thats a no",
         "__v": 0,
-        "date": "Wed, 24 May 2023 03:50:24 GMT",
-        "points": 4
+        "date": "Wed, 22 Nov 2023 09:40:28 GMT",
+        "points": 5
     },
     {
         "_id": "619c38cfa78c9ac16874e8ff",
@@ -4462,8 +4524,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912503038210609162/heybruh.gif",
         "tags": "hey bruh",
         "__v": 0,
-        "date": "Tue, 18 Apr 2023 18:46:15 GMT",
-        "points": 2
+        "date": "Mon, 18 Dec 2023 04:17:51 GMT",
+        "points": 4
     },
     {
         "_id": "619c38a6a78c9ac16874e8fb",
@@ -4546,8 +4608,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912501933112188948/thatsdumb.gif",
         "tags": "thats dumb",
         "__v": 0,
-        "date": "Fri, 22 Sep 2023 22:28:52 GMT",
-        "points": 4
+        "date": "Sun, 03 Dec 2023 02:08:00 GMT",
+        "points": 5
     },
     {
         "_id": "619c37a0a78c9ac16874e8e5",
@@ -4562,8 +4624,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912501721115279440/motherofpearl.gif",
         "tags": "mother of pearl",
         "__v": 0,
-        "date": "Tue, 14 Nov 2023 05:09:12 GMT",
-        "points": 7
+        "date": "Wed, 24 Jan 2024 14:02:08 GMT",
+        "points": 9
     },
     {
         "_id": "619c376da78c9ac16874e8e1",
@@ -4586,8 +4648,8 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912501399789658112/butweregonnatry.gif",
         "tags": "but were gonna try",
         "__v": 0,
-        "date": "Tue, 04 Jul 2023 15:11:28 GMT",
-        "points": 14
+        "date": "Sun, 26 Nov 2023 19:54:04 GMT",
+        "points": 15
     },
     {
         "_id": "619c3433a78c9ac16874e8db",
@@ -4752,16 +4814,16 @@
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912492059879964672/whatdoyoumean.gif",
         "tags": "what do you mean thats not right",
         "__v": 0,
-        "date": "Sat, 23 Sep 2023 01:26:48 GMT",
-        "points": 4
+        "date": "Sun, 03 Dec 2023 02:08:44 GMT",
+        "points": 5
     },
     {
         "_id": "619c2e6ba78c9ac16874e8b1",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/912491899145834536/rebelling.gif",
         "tags": "that was me rebelling against a tyrannical system",
         "__v": 0,
-        "date": "Wed, 26 Apr 2023 07:27:12 GMT",
-        "points": 1
+        "date": "Wed, 22 Nov 2023 09:39:24 GMT",
+        "points": 2
     },
     {
         "_id": "619c2e42a78c9ac16874e8af",
@@ -4831,8 +4893,8 @@
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/862003193189892116/image1.gif",
         "tags": "im not really reading anything i want to",
         "__v": 0,
-        "date": "Mon, 17 Apr 2023 06:19:55 GMT",
-        "points": 2
+        "date": "Wed, 22 Nov 2023 09:40:01 GMT",
+        "points": 3
     },
     {
         "_id": "619b1864b56df83e72b62e4d",
@@ -4853,22 +4915,22 @@
         "_id": "619b1827b56df83e72b62e4b",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/862003194472955904/image5.gif",
         "tags": "i do not know who this man is with the ridiculous hat",
-        "date": "Thu, 09 Feb 2023 22:10:17 GMT",
-        "points": 1
+        "date": "Thu, 14 Dec 2023 09:29:48 GMT",
+        "points": 2
     },
     {
         "_id": "619b1801b56df83e72b62e4a",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/862003194832617472/image6.gif",
         "tags": "woo hey there yall hey there! cowboy",
-        "date": "Tue, 10 Oct 2023 03:03:00 GMT",
-        "points": 2
+        "date": "Sun, 26 Nov 2023 07:40:29 GMT",
+        "points": 3
     },
     {
         "_id": "619b17deb56df83e72b62e49",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/862003195203158036/image7.gif",
         "tags": "do as i say or i shall soundly thrash you",
-        "date": "Tue, 14 Nov 2023 05:10:50 GMT",
-        "points": 3
+        "date": "Wed, 15 Nov 2023 06:56:32 GMT",
+        "points": 4
     },
     {
         "_id": "619b1784b56df83e72b62e48",
@@ -4909,8 +4971,8 @@
         "_id": "619b16ffb56df83e72b62e43",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/868580138156171285/image2.gif",
         "tags": "no one will ever hear from you ever again",
-        "date": "Wed, 26 Apr 2023 06:01:51 GMT",
-        "points": 1
+        "date": "Mon, 18 Dec 2023 21:47:45 GMT",
+        "points": 2
     },
     {
         "_id": "619b16e7b56df83e72b62e42",
@@ -4943,7 +5005,9 @@
     {
         "_id": "619b15a1b56df83e72b62e3d",
         "url": "https://cdn.discordapp.com/attachments/797578267322089492/900047305313492992/image0.gif",
-        "tags": "this is it"
+        "tags": "this is it",
+        "date": "Mon, 11 Dec 2023 04:50:02 GMT",
+        "points": 1
     },
     {
         "_id": "619b158ab56df83e72b62e3c",
@@ -4996,8 +5060,8 @@
         "_id": "619b13f6b56df83e72b62e35",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061365764986241124/allenxnadria-hashtag-protip.gif",
         "tags": "hashtag protip #protip",
-        "date": "Mon, 17 Apr 2023 06:24:48 GMT",
-        "points": 2
+        "date": "Wed, 22 Nov 2023 09:39:11 GMT",
+        "points": 3
     },
     {
         "_id": "619b13cab56df83e72b62e34",
@@ -5023,7 +5087,9 @@
     {
         "_id": "619b138fb56df83e72b62e31",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061365108070166639/allenxandria-why-is-this-always-a-question.gif",
-        "tags": "why is this always a question"
+        "tags": "why is this always a question",
+        "date": "Sun, 03 Dec 2023 02:08:35 GMT",
+        "points": 1
     },
     {
         "_id": "619b1378b56df83e72b62e30",
@@ -5062,8 +5128,8 @@
         "_id": "619b130cb56df83e72b62e2b",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061363069231575080/allenxandria-my-grandpas-deck-has-no-pathetic-cards-kaiba.gif",
         "tags": "my granpas deck has no pathetic cards kaiba grandpas",
-        "date": "Tue, 10 Oct 2023 03:02:21 GMT",
-        "points": 21
+        "date": "Wed, 15 Nov 2023 06:56:39 GMT",
+        "points": 26
     },
     {
         "_id": "619b12f9b56df83e72b62e2a",
@@ -5111,8 +5177,8 @@
         "_id": "619b125db56df83e72b62e24",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061361833488961677/allenxandria-teenagers-are-fools-so-what-they-say-is-literally-irrelevant.gif",
         "tags": "teenagers are fools so what they say is literally irrelevant",
-        "date": "Sun, 21 May 2023 16:53:05 GMT",
-        "points": 11
+        "date": "Sun, 26 Nov 2023 07:40:03 GMT",
+        "points": 12
     },
     {
         "_id": "619b1243b56df83e72b62e23",
@@ -5125,8 +5191,8 @@
         "_id": "619b1235b56df83e72b62e22",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061361471096889354/allenxandria-wheres-the-lie.gif",
         "tags": "wheres the lie",
-        "date": "Mon, 14 Aug 2023 04:09:19 GMT",
-        "points": 19
+        "date": "Wed, 22 Nov 2023 09:39:55 GMT",
+        "points": 20
     },
     {
         "_id": "619b121fb56df83e72b62e21",
@@ -5172,8 +5238,8 @@
         "_id": "619b117fb56df83e72b62e1b",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061360066747433061/allenxandria-this-is-not-a-good-choice.gif",
         "tags": "this is not a good choice its a terrible choice",
-        "date": "Tue, 14 Nov 2023 05:10:35 GMT",
-        "points": 3
+        "date": "Mon, 18 Dec 2023 21:49:19 GMT",
+        "points": 4
     },
     {
         "_id": "619b1167b56df83e72b62e1a",
@@ -5186,8 +5252,8 @@
         "_id": "619b1156b56df83e72b62e19",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061359746394890270/allenxandria-this-country-doesnt-care.gif",
         "tags": "this country doesnt care",
-        "date": "Tue, 10 Oct 2023 03:03:13 GMT",
-        "points": 4
+        "date": "Wed, 15 Nov 2023 06:56:47 GMT",
+        "points": 6
     },
     {
         "_id": "619b1131b56df83e72b62e18",
@@ -5214,8 +5280,8 @@
         "_id": "619b10f8b56df83e72b62e15",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061358957492457562/allenxandria-zero-percent-chance.gif",
         "tags": "zero percent chance",
-        "date": "Tue, 10 Oct 2023 03:04:04 GMT",
-        "points": 10
+        "date": "Wed, 22 Nov 2023 09:40:04 GMT",
+        "points": 11
     },
     {
         "_id": "619b10cbb56df83e72b62e14",
@@ -5254,8 +5320,8 @@
         "_id": "619b1068b56df83e72b62e0f",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061358006316572692/allenxandria-buddy-reads-will-be-the-end-of-us-all.gif",
         "tags": "buddy reads will be the end of us all",
-        "date": "Fri, 17 Feb 2023 15:07:13 GMT",
-        "points": 11
+        "date": "Sat, 02 Dec 2023 02:18:13 GMT",
+        "points": 16
     },
     {
         "_id": "619b1059b56df83e72b62e0e",
@@ -5342,7 +5408,9 @@
     {
         "_id": "619b08edb56df83e72b62e02",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061355961375277156/allenxandria-guys-it-is-so-hot-you-feel-how-hot-it-is.gif",
-        "tags": "you feel how hot it is guys it is so hot"
+        "tags": "you feel how hot it is guys it is so hot",
+        "date": "Mon, 18 Dec 2023 19:49:29 GMT",
+        "points": 10
     },
     {
         "_id": "619b08dab56df83e72b62e01",
@@ -5369,15 +5437,15 @@
         "_id": "619b0875b56df83e72b62dfe",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061355199073091744/allenxandria-its-acotar.gif",
         "tags": "its acotar",
-        "date": "Sat, 10 Jun 2023 23:36:05 GMT",
-        "points": 7
+        "date": "Mon, 18 Dec 2023 21:50:15 GMT",
+        "points": 8
     },
     {
         "_id": "619b0857b56df83e72b62dfd",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061354885376909312/allenxandria-im-just-procrastinating.gif",
         "tags": "im just procrastinating",
-        "date": "Wed, 16 Aug 2023 18:55:22 GMT",
-        "points": 2
+        "date": "Wed, 24 Jan 2024 14:03:25 GMT",
+        "points": 3
     },
     {
         "_id": "619b0834b56df83e72b62dfc",
@@ -5411,27 +5479,29 @@
         "_id": "619b07dbb56df83e72b62df8",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061354062051811419/allenxandria-i-set-the-bar-too-high.gif",
         "tags": "i set the bar too high",
-        "date": "Mon, 17 Apr 2023 06:16:45 GMT",
-        "points": 2
+        "date": "Wed, 15 Nov 2023 06:56:08 GMT",
+        "points": 3
     },
     {
         "_id": "619b07aeb56df83e72b62df6",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061353546169188422/allenxandria-yeah-im-not-gonna-do-that.gif",
-        "tags": "yeah im not gonna do that"
+        "tags": "yeah im not gonna do that",
+        "date": "Wed, 24 Jan 2024 14:05:53 GMT",
+        "points": 1
     },
     {
         "_id": "619b079db56df83e72b62df5",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061353398659731506/allenxandria-birthday-perverts.gif",
         "tags": "birthday perverts",
-        "date": "Tue, 10 Oct 2023 03:00:32 GMT",
-        "points": 28
+        "date": "Sun, 03 Dec 2023 02:08:09 GMT",
+        "points": 29
     },
     {
         "_id": "619b0779b56df83e72b62df4",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061353190538350602/allenxandria-you-do-not-want-those-i-promise-you.gif",
         "tags": "you do not want those i promise you",
-        "date": "Tue, 18 Apr 2023 05:29:54 GMT",
-        "points": 2
+        "date": "Sun, 03 Dec 2023 02:08:25 GMT",
+        "points": 4
     },
     {
         "_id": "619b073fb56df83e72b62df3",
@@ -5465,8 +5535,8 @@
         "_id": "619b06e3b56df83e72b62def",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061351348370669659/allenxandria-you-like-samwise.gif",
         "tags": "you like samwise",
-        "date": "Mon, 17 Apr 2023 06:23:48 GMT",
-        "points": 1
+        "date": "Mon, 18 Dec 2023 17:41:48 GMT",
+        "points": 2
     },
     {
         "_id": "619b06cbb56df83e72b62dee",
@@ -5477,8 +5547,8 @@
         "_id": "619b06aab56df83e72b62ded",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061351081369686106/allenxandria-yall-make-me-so-sad.gif",
         "tags": "yall make me so sad",
-        "date": "Thu, 26 Oct 2023 03:54:14 GMT",
-        "points": 6
+        "date": "Sun, 03 Dec 2023 02:07:46 GMT",
+        "points": 7
     },
     {
         "_id": "619b0689b56df83e72b62dec",
@@ -5540,8 +5610,8 @@
         "_id": "619b05b3b56df83e72b62de4",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061349316603682846/allenxandria-i-didnt-mean-to-block-you.gif",
         "tags": "I didnt mean to block you",
-        "date": "Mon, 07 Aug 2023 05:44:14 GMT",
-        "points": 2
+        "date": "Wed, 22 Nov 2023 09:40:30 GMT",
+        "points": 3
     },
     {
         "_id": "619b02c9b56df83e72b62de3",
@@ -5584,6 +5654,7 @@
     {
         "_id": "619b020ab56df83e72b62ddd",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061348068081029231/allenxandria-cowards.gif",
+        "tenor": "https://tenor.com/view/allenxandria-cowards-gif-21300000",
         "tags": "cowards",
         "date": "Mon, 17 Apr 2023 06:17:44 GMT",
         "points": 2
@@ -5591,6 +5662,7 @@
     {
         "_id": "619b00ceb56df83e72b62ddc",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061337008838029373/allenxandria-dang-it.gif",
+        "tenor": "https://tenor.com/view/allenxandria-dang-it-gif-21300001",
         "tags": "dang it",
         "date": "Thu, 01 Jun 2023 06:23:14 GMT",
         "points": 2
@@ -5598,6 +5670,7 @@
     {
         "_id": "619b00acb56df83e72b62ddb",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061336545249988780/allenxandria-just-dont-do-it.gif",
+        "tenor": "https://tenor.com/view/allenxandria-just-dont-do-it-gif-21300004",
         "tags": "do not do it just dont do it",
         "date": "Mon, 17 Apr 2023 06:15:27 GMT",
         "points": 6
@@ -5605,6 +5678,7 @@
     {
         "_id": "619b0099b56df83e72b62dda",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061336342895800330/allenxandria-did-it-need-to-be-clarified.gif",
+        "tenor": "https://tenor.com/view/allenxandria-did-it-need-to-be-clarified-gif-21300003",
         "tags": "did it need to be clarified",
         "date": "Sat, 06 May 2023 04:09:32 GMT",
         "points": 5
@@ -5612,6 +5686,7 @@
     {
         "_id": "619b0074b56df83e72b62dd9",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061336191435280495/allenxandria-walkerlifelessons.gif",
+        "tenor": "https://tenor.com/view/allenxandria-walkerlifelessons-gif-21289211",
         "tags": "#walkerlifelessons walkerlifelessons walker life lessons",
         "date": "Tue, 18 Apr 2023 19:17:43 GMT",
         "points": 3
@@ -5619,6 +5694,7 @@
     {
         "_id": "619b0053b56df83e72b62dd8",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061335994512719903/allenxandria-hes-got-pincers.gif",
+        "tenor": "https://tenor.com/view/allenxandria-hes-got-pincers-gif-21289210",
         "tags": "hes got pincers",
         "date": "Tue, 18 Apr 2023 05:30:46 GMT",
         "points": 1
@@ -5626,6 +5702,7 @@
     {
         "_id": "619b003cb56df83e72b62dd7",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061335744733528195/allenxandria-have-you-met-allen.gif",
+        "tenor": "https://tenor.com/view/allenxandria-have-you-met-allen-gif-21289219",
         "tags": "have you met allen",
         "date": "Mon, 07 Aug 2023 05:44:03 GMT",
         "points": 3
@@ -5633,6 +5710,7 @@
     {
         "_id": "619b0020b56df83e72b62dd6",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061335591981158471/allenxandria-hey-thats-awesome.gif",
+        "tenor": "https://tenor.com/view/allenxandria-hey-thats-awesome-gif-21289212",
         "tags": "hey thats awesome",
         "date": "Tue, 18 Apr 2023 05:33:17 GMT",
         "points": 4
@@ -5640,18 +5718,21 @@
     {
         "_id": "619afff9b56df83e72b62dd5",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061335410774638612/allenxandria-oh-no-i-put-someone-on-mute.gif",
+        "tenor": "https://tenor.com/view/allenxandria-oh-no-i-put-someone-on-mute-gif-21289208",
         "tags": "oh no I put someone on mute",
-        "date": "Mon, 07 Aug 2023 05:42:39 GMT",
-        "points": 4
+        "date": "Wed, 15 Nov 2023 06:57:00 GMT",
+        "points": 5
     },
     {
         "_id": "619affdab56df83e72b62dd4",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061335244264972308/allenxandria-im-just-as-shocked-as-you-are.gif",
+        "tenor": "https://tenor.com/view/allenxandria-im-just-as-shocked-as-you-are-gif-21289209",
         "tags": "im just as shocked as you are"
     },
     {
         "_id": "619aff26b56df83e72b62dd3",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061334984964722778/break-em-allenxandria.gif",
+        "tenor": "https://tenor.com/view/break-em-allenxandria-gif-21289011",
         "tags": "break em",
         "date": "Wed, 16 Aug 2023 15:45:20 GMT",
         "points": 7
@@ -5659,13 +5740,15 @@
     {
         "_id": "619aff08b56df83e72b62dd2",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061334730689224794/allenxandria-you-wrong.gif",
+        "tenor": "https://tenor.com/view/allenxandria-you-wrong-gif-21289206",
         "tags": "you wrong",
-        "date": "Tue, 20 Jun 2023 23:15:04 GMT",
-        "points": 6
+        "date": "Wed, 15 Nov 2023 06:23:17 GMT",
+        "points": 7
     },
     {
         "_id": "619afedeb56df83e72b62dd1",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061334506981838959/cat-allenxandria.gif",
+        "tenor": "https://tenor.com/view/cat-allenxandria-gif-21289007",
         "tags": "are you alright cat",
         "date": "Thu, 09 Feb 2023 06:15:08 GMT",
         "points": 1
@@ -5673,6 +5756,7 @@
     {
         "_id": "619afec0b56df83e72b62dd0",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061334157613080726/allenxandria-like-what.gif",
+        "tenor": "https://tenor.com/view/allenxandria-like-what-gif-21289006",
         "tags": "and im like what",
         "date": "Tue, 23 May 2023 03:54:40 GMT",
         "points": 1
@@ -5680,6 +5764,7 @@
     {
         "_id": "619afe98b56df83e72b62dcf",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061333926662123571/allenxandria-a-quest.gif",
+        "tenor": "https://tenor.com/view/allenxandria-a-quest-gif-21289001",
         "tags": "a quest I might call it",
         "date": "Wed, 26 Apr 2023 07:28:39 GMT",
         "points": 1
@@ -5687,13 +5772,15 @@
     {
         "_id": "619afe84b56df83e72b62dce",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061333640870625360/work-allenxandria.gif",
+        "tenor": "https://tenor.com/view/work-allenxandria-gif-21289003",
         "tags": "work",
-        "date": "Mon, 07 Aug 2023 05:43:36 GMT",
-        "points": 13
+        "date": "Sun, 26 Nov 2023 07:39:09 GMT",
+        "points": 14
     },
     {
         "_id": "619afe65b56df83e72b62dcd",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061333450088525884/allenxandria-shocked-face.gif",
+        "tenor": "https://tenor.com/view/allenxandria-shocked-face-gif-21289004",
         "tags": "shocked face",
         "date": "Sat, 06 May 2023 04:09:35 GMT",
         "points": 2
@@ -5701,6 +5788,7 @@
     {
         "_id": "619afdcdb56df83e72b62dcc",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061333210950287391/allenxandria-im-done.gif",
+        "tenor": "https://tenor.com/view/allenxandria-im-done-for-real-gif-21289005",
         "tags": "alright im done like for real im done",
         "date": "Mon, 07 Aug 2023 05:46:04 GMT",
         "points": 4
@@ -5708,6 +5796,7 @@
     {
         "_id": "619afd8db56df83e72b62dcb",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061333008109543506/badger-sounds-allenxandria.gif",
+        "tenor": "https://tenor.com/view/badger-sounds-allenxandria-gif-21289009",
         "tags": "badger sounds",
         "date": "Tue, 10 Oct 2023 03:03:37 GMT",
         "points": 6
@@ -5715,15 +5804,17 @@
     {
         "_id": "619ad4db0303290b511cae43",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061332780581134447/allenxandria-so-good.gif",
+        "tenor": "https://tenor.com/view/allenxandria-so-good-gif-21278838",
         "tags": "so good",
-        "date": "Mon, 29 May 2023 16:03:10 GMT",
-        "points": 34
+        "date": "Fri, 15 Dec 2023 03:11:04 GMT",
+        "points": 39
     },
     {
         "_id": "619acb990303290b511cae3f",
         "url": "https://cdn.discordapp.com/attachments/834826825943089184/1061332404708577300/allenxandria-boosh.gif",
+        "tenor": "https://tenor.com/view/allenxandria-boosh-gif-20708353",
         "tags": "boosh",
-        "date": "Mon, 17 Apr 2023 06:16:59 GMT",
-        "points": 1
+        "date": "Mon, 18 Dec 2023 04:16:54 GMT",
+        "points": 3
     }
 ]
